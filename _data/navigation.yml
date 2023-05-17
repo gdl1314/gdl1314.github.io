@@ -9,8 +9,8 @@ main:
   - title: "Teaching & Mentoring"
     url: /teaching/    
         
-  - title: "CV"
+  - title: "Brief CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Notes"
+    url: /notes/
