@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -29,7 +29,7 @@ Positions
   
 Education
 ======
-* B.A., Mathematics, St. Olaf College, 1996
+* B.A. *magna cum laude*, Mathematics, St. Olaf College, 1996
 * M.A. Mathematics, Indiana University, 1999
 * Ph.D., Mathematica, Indiana University, 2002
 
