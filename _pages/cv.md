@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ---
+
 Positions
 ======
 * **2018 - Present**: UnitedHealth Group
