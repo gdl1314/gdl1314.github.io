@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gregory D. Lyng / Website"
+title                    : "Gregory D. Lyng"
 title_separator          : "-"
 name                     : &name "Gregory D. Lyng"
 description              : &description "website for my work"
