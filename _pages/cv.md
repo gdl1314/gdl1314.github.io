@@ -12,35 +12,30 @@ redirect_from:
 
 Positions
 ======
-* 2018 - Present: Research Fellow
+* **2018 - Present**: Research Fellow
   * UnitedHealth Group 
 
-* 2015 - 2018:  Professor
-  * University of Wyoming
+* **2015 - 2018**:  Professor
+  * University of Wyoming, Laramie, WY
 
-* 2010 - 2015: Associate Professor
-  * University of Wyoming
+* **2010 - 2015**: Associate Professor
+  * University of Wyoming, Laramie, WY
 
-* 2005 - 2010: Assistant Professor
-  * University of Wyoming 
+* **2005 - 2010**: Assistant Professor
+  * University of Wyoming, Laramie, WY 
 
-* 2002 - 2005: Post-doctoral Assistant Professor 
-  * University of Michigan 
+* **2002 - 2005**: Post-doctoral Assistant Professor 
+  * University of Michigan, Ann Arbor, MI
+  * Mentors: Peter Miller & Joel Smoller
   
 Education
 ======
-* B.A. *magna cum laude*, Mathematics, St. Olaf College, 1996
-* M.A. Mathematics, Indiana University, 1999
-* Ph.D., Mathematica, Indiana University, 2002
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D., Mathematica, Indiana University, Bloomington, IN, **2002**
+  * Dissertation: *One dimensional stability of detonation waves*
+  * Advisor: Kevin Zumbrun
+  * Committee: D. Hoff (Indiana), J. Rubinstein (Technion), S. Wang (Indiana)
+* M.A. Mathematics, Indiana University, Bloomington, IN,  **1999**
+* B.A. *magna cum laude*, Mathematics, St. Olaf College, Northfield, MN, **1996**
 
 Publications
 ======
@@ -60,6 +55,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
 * Currently signed in to 43 different slack teams
+
+Academic Funding 
+=====
