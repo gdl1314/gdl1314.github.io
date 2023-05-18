@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Mathematics, GitHub University, 1996
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A., Mathematics, St. Olaf College, 1996
+* M.A. Mathematics, Indiana University, 1999
+* Ph.D., Mathematica, Indiana University, 2002
 
 Work experience
 ======
