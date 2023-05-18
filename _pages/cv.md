@@ -17,7 +17,8 @@ Positions
   * Research Fellow
 
 * **2005 - 2018**:  University of Wyoming, Laramie, WY
-  * Department Head, Mathematics (2015 - 2017), Mathematicas & Statistics (2017 - 2018)
+  * Department Head, Mathematics & Statistics (2017 - 2018)
+  * Department Head, Mathematics (2015 - 2017) 
   * Professor (2015 - 2018)
   * Associate Professor (2010 - 2015)
   * Assistant Professor (2005 - 2010)
