@@ -12,20 +12,17 @@ redirect_from:
 
 Positions
 ======
-* **2018 - Present**: Research Fellow
-  * UnitedHealth Group 
+* **2018 - Present**: UnitedHealth Group
+  * Research Fellow
 
-* **2015 - 2018**:  Professor
-  * University of Wyoming, Laramie, WY
+* **2005 - 2018**:  University of Wyoming, Laramie, WY
+  * Department Head, Mathematics (2015 - 2017), Mathematicas & Statistics (2017 - 2018)
+  * Professor (2015 - 2018)
+  * Associate Professor (2010 - 2015)
+  * Assistant Professor (2005 - 2010)
 
-* **2010 - 2015**: Associate Professor
-  * University of Wyoming, Laramie, WY
-
-* **2005 - 2010**: Assistant Professor
-  * University of Wyoming, Laramie, WY 
-
-* **2002 - 2005**: Post-doctoral Assistant Professor 
-  * University of Michigan, Ann Arbor, MI
+* **2002 - 2005**: University of Michigan, Ann Arbor, MI
+  * Post-Doctoral Assistant Professor
   * Mentors: Peter Miller & Joel Smoller
   
 Education
