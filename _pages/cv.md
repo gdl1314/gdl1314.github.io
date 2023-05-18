@@ -9,24 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+
+Positions
+======
+* 2018 - Present: Research Fellow
+  * UnitedHealth Group 
+
+* 2015 - 2018:  Professor
+  * University of Wyoming
+
+* 2010 - 2015: Associate Professor
+  * University of Wyoming
+
+* 2005 - 2010: Assistant Professor
+  * University of Wyoming 
+
+* 2002 - 2005: Post-doctoral Assistant Professor 
+  * University of Michigan 
+  
 Education
 ======
 * B.A., Mathematics, St. Olaf College, 1996
 * M.A. Mathematics, Indiana University, 1999
 * Ph.D., Mathematica, Indiana University, 2002
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
