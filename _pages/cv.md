@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+---
 Positions
 ======
 * **2018 - Present**: UnitedHealth Group
@@ -54,7 +54,7 @@ Teaching
   
 Awards
 ======
-* Currently signed in to 43 different slack teams
+* I've won stuff. 
 
 Academic Funding 
 =====
