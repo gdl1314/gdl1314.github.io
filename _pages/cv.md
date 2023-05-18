@@ -16,25 +16,25 @@ Positions
 * **2018 - Present**: UnitedHealth Group
   * Research Fellow
 
-* **2005 - 2018**:  [University of Wyoming](www.uwyo.edu), Laramie, WY
+* **2005 - 2018**:  [University of Wyoming](http://www.uwyo.edu), Laramie, WY
   * Department Head, Mathematics & Statistics (2017 - 2018)
   * Department Head, Mathematics (2015 - 2017) 
   * Professor (2015 - 2018)
   * Associate Professor (2010 - 2015)
   * Assistant Professor (2005 - 2010)
 
-* **2002 - 2005**: [University of Michigan](www.umich.edu), Ann Arbor, MI
+* **2002 - 2005**: [University of Michigan](http://www.umich.edu), Ann Arbor, MI
   * Post-Doctoral Assistant Professor
   * Mentors: Peter Miller & Joel Smoller
   
 Education
 ======
-* Ph.D., Mathematics, [Indiana University](www.iub.edu), Bloomington, IN, **2002**
+* Ph.D., Mathematics, [Indiana University](http://www.iub.edu), Bloomington, IN, **2002**
   * Dissertation: *One dimensional stability of detonation waves*
   * Advisor: Kevin Zumbrun
   * Committee: D. Hoff (Indiana), J. Rubinstein (Technion), S. Wang (Indiana)
 * M.A. Mathematics, Indiana University, Bloomington, IN,  **1999**
-* B.A. *magna cum laude*, Mathematics, St. Olaf College, Northfield, MN, **1996**
+* B.A. *magna cum laude*, Mathematics, [St. Olaf College](http://stolaf.edu), Northfield, MN, **1996**
 
 Publications
 ======
