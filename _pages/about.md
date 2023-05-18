@@ -14,7 +14,8 @@ I am a mathematician by training. My early work focused on PDEs.
 
 ### A few faves. 
 
-- 
-- Gaussian SSE, Physica D
-- CPAM Paper
+* Long Lee, Gregory Lyng, & Irena Vankova, The Gaussian semiclassical soliton ensemble and numerical methods for the focusing nonlinear Schrödinger equation. Physica D, **241** (2012): 1767–1781.
+  * DOI: 10.1016/j.physd.2012.08.006
+  * Preprint: arXiv:1207.0824v1
+
 
