@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 ## Positions
-* **2018 - Present**: UnitedHealth Group
+* **2018 - Present**: [UnitedHealth Group](https://www.unitedhealthgroup.com)
   * Research Fellow
 
 * **2005 - 2018**:  [University of Wyoming](http://www.uwyo.edu), Laramie, WY
