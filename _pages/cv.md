@@ -65,12 +65,12 @@ Teaching
 
 ## Academic Funding 
 
-* 2016–2019: National Science Foundation (DMS-1551236), $599,471 (UW Share: $299,475). Principal Investigator, Title of Project: EDT/Collaborative Research— FRAMEWORK: Front Range Applied Mathematics Exchanges & Workshops, [Co- PIs: M. Allen (U. Wyoming), S. Pankavich & B. Moskal (Colorado School of Mines)].
+* 2016–2019: National Science Foundation (DMS-1551236), $599,471. Principal Investigator, Title of Project: EDT/Collaborative Research— FRAMEWORK: Front Range Applied Mathematics Exchanges & Workshops, [Co-PIs: M. Allen (U. Wyoming), S. Pankavich & B. Moskal (Colorado School of Mines)].
 
-* 2014–2017: National Science Foundation (DMS-1413273), $245,486. Principal In- vestigator, Title of Project: New Perspectives in Nonlinear Waves: Taming Modu- lational Instability, [Co-PI: L. Lee (U. Wyoming)]. No-Cost Extension to 7/31/2018
+* 2014–2017: National Science Foundation (DMS-1413273), $245,486. Principal Investigator, Title of Project: New Perspectives in Nonlinear Waves: Taming Modulational Instability, [Co-PI: L. Lee (U. Wyoming)].
 
-* 2010: National Science Foundation (DMS-1005317), $25,000. Principal Investi- gator, Title of Project: Rocky Mountain Summer School: “Conservation Laws & Applications” .
+* 2010: National Science Foundation (DMS-1005317), $25,000. Principal Investigator, Title of Project: Rocky Mountain Summer School: “Conservation Laws & Applications” .
 
-* 2010: Institute for Mathematics and its Applications, $5,000. Principal Investi- gator, Title of Project: Rocky Mountain Summer School: “Conservation Laws & Applications” .
+* 2010: Institute for Mathematics and its Applications, $5,000. Principal Investigator, Title of Project: Rocky Mountain Summer School: “Conservation Laws & Applications” .
 
 * 2009–2014: National Science Foundation (DMS-0845127), $409,998. Principal Investigator, Title of Project: CAREER: Wyoming Applied Analysis & Computing Group: Behavior of Solutions of Nonlinear Partial Differential Equations.
