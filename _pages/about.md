@@ -15,7 +15,7 @@ I am a mathematician by training.
 
 Broadly, my early work focused on the behavior of solutions of nonlinear partial differential equations. 
 
-More recently, my interests have broadened to include healthcare applications. I am especially interested in the interplay between data and model --- 
+More recently, my interests have broadened to include healthcare applications. I am especially interested in the interplay between data and model
 
 ### Oldies but goodies. 
 
