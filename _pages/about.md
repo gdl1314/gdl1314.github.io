@@ -13,9 +13,9 @@ I am a mathematician by training.
 
 ### Research Interests
 
-Broadly, my early work focused on the behavior of solutions of nonlinear partial differential equations. 
+Broadly, my early work focused on the behavior of solutions of nonlinear partial differential equations. Many of the projects feature an interplay of tools and techniques from dynamical systems, functional analysis, and computation. 
 
-More recently, my interests have broadened to include healthcare applications. I am especially interested in the interplay between data and model
+More recently, my interests have broadened to include healthcare applications. I am especially interested in the interaction between data and model
 
 ### Oldies but goodies. 
 
