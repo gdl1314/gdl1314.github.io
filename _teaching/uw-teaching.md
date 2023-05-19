@@ -10,8 +10,6 @@ location: "Laramie, WY"
 
 
 ### Undergraduate Courses
-======
-
 
 | Course Number | Title |
 | :--------- | --------- |
@@ -25,8 +23,14 @@ location: "Laramie, WY"
 | 2200  | Calculus I (×6) |
 
 
-Heading 2
-======
+### Graduate Courses
 
-Heading 3
-======
+| Course Number | Title |
+| :--------- | --------- |
+| 5800 | Professional Development Seminar (×3) |
+| 5430 |  Ordinary Differential Equations II (×2) |
+| 5400/5 | Methods of Applied Mathematics I/II (×1/×2) |
+| 5290 | Topics in Analysis: Stability of Nonlinear Waves | 
+| 5290 |  Topics in Analysis: Conservation Laws |
+| 5230 |  Complex Variables I (×3) |
+| 5200 |  Real Variables I | 
