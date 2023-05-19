@@ -17,9 +17,9 @@ Broadly, my early work focused on the behavior of solutions of nonlinear partial
 
 More recently, my interests have broadened to include data-driven modeling and machine learning with healthcare applications. I am especially interested in the interaction between data and model.
 
-### Other interests
+### Other Stuff
 
-Outside of mathematics, I enjoy skiing, ruminating on the New York Times crossword puzzle, drinking good coffee, and passionately following the (mis)fortunes of the Indiana University basketball team
+I grew up in Fort Wayne, Indiana (the one-time magnet wire capital of the world). Outside of mathematics, I enjoy skiing, attempting to solve the New York Times crossword puzzle, drinking good coffee, and passionately following the (mis)fortunes of the Indiana University basketball team.
 
 ### Oldies but goodies. 
 
