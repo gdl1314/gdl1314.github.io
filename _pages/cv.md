@@ -42,6 +42,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Published Patents
+======
+
+
 Talks
 ======
   <ul>{% for post in site.talks %}
