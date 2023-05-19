@@ -46,7 +46,7 @@ Publications
   
 Published Patents
 ======
-
+* Irfan Bulu & Gregory D. Lyng, Dynamically Parameterized Machine Learning Frameworks, Application: 17/484,571, Filed with USPTO: September 24, 2021. Patent Pending.
 
 Talks
 ======
