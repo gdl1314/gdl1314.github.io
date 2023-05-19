@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-Positions
+## Positions
 ======
 * **2018 - Present**: UnitedHealth Group
   * Research Fellow

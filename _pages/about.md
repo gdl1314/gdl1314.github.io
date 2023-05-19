@@ -11,8 +11,11 @@ redirect_from:
 ### Background. 
 I am a mathematician by training. 
 
+### Research Interests
 
-### A few faves. 
+
+
+### Oldies but goodies. 
 
 Some older papers of which I am especially fond for one reason or another...
 
