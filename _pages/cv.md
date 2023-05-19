@@ -12,7 +12,6 @@ redirect_from:
 ---
 
 ## Positions
-======
 * **2018 - Present**: UnitedHealth Group
   * Research Fellow
 
@@ -27,14 +26,17 @@ redirect_from:
   * Post-Doctoral Assistant Professor
   * Mentors: Peter Miller & Joel Smoller
   
-Education
-======
-* Ph.D., Mathematics, [Indiana University](http://www.iub.edu), Bloomington, IN, **2002**
-  * Dissertation: *One dimensional stability of detonation waves*
-  * Advisor: Kevin Zumbrun
-  * Committee: D. Hoff (Indiana), J. Rubinstein (Technion), S. Wang (Indiana)
-* M.A. Mathematics, Indiana University, Bloomington, IN,  **1999**
-* B.A. *magna cum laude*, Mathematics, [St. Olaf College](http://stolaf.edu), Northfield, MN, **1996**
+## Education
+* [Indiana University](http://www.iub.edu), Bloomington, IN.
+  * Ph.D., Mathematics, **2002**
+    * Dissertation: *One dimensional stability of detonation waves*
+    * Advisor: Kevin Zumbrun
+    * Committee: D. Hoff (Indiana), J. Rubinstein (Technion), S. Wang (Indiana)
+  * M.A. Mathematics, Indiana University, Bloomington, IN,  **1999**
+* [St. Olaf College](http://stolaf.edu), Northfield, MN.
+  *B.A. *magna cum laude*, Mathematics, **1996**
+* [Trinity College Dublin, The University of Dublin](http://www.tcd.ie), Dublin, Ireland.
+  * Visiting Student, Mathematics & Classics, **1994 - 1995**
 
 Publications
 ======
