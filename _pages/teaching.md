@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
+## University of Wyoming (2005 - 2018)
 ### Undergraduate Courses
 
 | Course Number | Title |
@@ -30,3 +32,14 @@ author_profile: true
 | 5290 |  Topics in Analysis: Conservation Laws |
 | 5230 |  Complex Variables I (×3) |
 | 5200 |  Real Variables I | 
+
+## University of Michigan (2002 - 2005)
+### Undergraduate Courses
+
+| Course Number | Title |
+| :--------- | --------- |
+| 450 | Advanced Mathematics for Engineers I (×3) |
+| 417 | Matrix Algebra I |
+| 156 | Applied Honors Calculus II |
+| 115 | Calculus I |
+
