@@ -4,7 +4,7 @@ collection: teaching
 type: "courses"
 permalink: /teaching/uw
 venue: "University of Wyoming, Mathematics"
-date: 2005 - 2018
+date: 2005
 location: "Laramie, WY"
 ---
 
