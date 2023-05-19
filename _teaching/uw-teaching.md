@@ -11,6 +11,8 @@ location: "Laramie, WY"
 
 ### Undergraduate Courses
 ======
+| Syntax | Description |
+| Header | Title |
 | Course Number | Title |
 | --------- | --------- |
 | 4400 | Vector Calculus |
