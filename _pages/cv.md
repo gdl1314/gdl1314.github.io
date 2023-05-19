@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " Brief CV"
+title: " CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -34,7 +34,7 @@ redirect_from:
     * Committee: D. Hoff (Indiana), J. Rubinstein (Technion), S. Wang (Indiana)
   * M.A. Mathematics, Indiana University, Bloomington, IN,  **1999**
 * [St. Olaf College](http://stolaf.edu), Northfield, MN.
-  *B.A. *magna cum laude*, Mathematics, **1996**
+  * B.A. *magna cum laude*, Mathematics, **1996**
 * [Trinity College Dublin, The University of Dublin](http://www.tcd.ie), Dublin, Ireland.
   * Visiting Student, Mathematics & Classics, **1994 - 1995**
 
