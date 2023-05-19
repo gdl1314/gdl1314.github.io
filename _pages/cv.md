@@ -53,8 +53,8 @@ redirect_from:
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -69,8 +69,8 @@ Teaching
 
 * 2014–2017: National Science Foundation (DMS-1413273), $245,486. Principal Investigator, Title of Project: New Perspectives in Nonlinear Waves: Taming Modulational Instability, [Co-PI: L. Lee (U. Wyoming)].
 
-* 2010: National Science Foundation (DMS-1005317), $25,000. Principal Investigator, Title of Project: Rocky Mountain Summer School: “Conservation Laws & Applications” .
+* 2010: National Science Foundation (DMS-1005317), $25,000. Principal Investigator, Title of Project: Rocky Mountain Summer School: “Conservation Laws & Applications”.
 
-* 2010: Institute for Mathematics and its Applications, $5,000. Principal Investigator, Title of Project: Rocky Mountain Summer School: “Conservation Laws & Applications” .
+* 2010: Institute for Mathematics and its Applications, $5,000. Principal Investigator, Title of Project: Rocky Mountain Summer School: “Conservation Laws & Applications”.
 
 * 2009–2014: National Science Foundation (DMS-0845127), $409,998. Principal Investigator, Title of Project: CAREER: Wyoming Applied Analysis & Computing Group: Behavior of Solutions of Nonlinear Partial Differential Equations.
