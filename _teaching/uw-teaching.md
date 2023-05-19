@@ -1,7 +1,7 @@
 ---
 title: "University of Wyoming"
 collection: teaching
-type: "courses"
+type: "Course List"
 permalink: /teaching/uw
 venue: "University of Wyoming, Mathematics"
 date: 2005-01-01
