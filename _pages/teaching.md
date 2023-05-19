@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 
-## University of Wyoming (2005 - 2018)
-### Undergraduate Courses
+## Archive of Classroom Teaching  
+### University of Wyoming (2005 - 2018)
+#### Undergraduate Courses
 
 | Course Number | Title |
 | :--------- | --------- |
@@ -21,7 +22,7 @@ author_profile: true
 | 2200  | Calculus I (×6) |
 
 
-### Graduate Courses
+#### Graduate Courses
 
 | Course Number | Title |
 | :--------- | --------- |
@@ -33,8 +34,8 @@ author_profile: true
 | 5230 |  Complex Variables I (×3) |
 | 5200 |  Real Variables I | 
 
-## University of Michigan (2002 - 2005)
-### Undergraduate Courses
+### University of Michigan (2002 - 2005)
+#### Undergraduate Courses
 
 | Course Number | Title |
 | :--------- | --------- |
