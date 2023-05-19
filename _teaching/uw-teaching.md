@@ -11,6 +11,7 @@ location: "Laramie, WY"
 
 ### Undergraduate Courses
 ======
+
 | Syntax | Description |
 | Header | Title |
 | Course Number | Title |
