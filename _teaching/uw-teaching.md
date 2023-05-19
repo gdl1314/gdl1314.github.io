@@ -14,7 +14,7 @@ location: "Laramie, WY"
 
 
 | Course Number | Title |
-| --------- | --------- |
+| :--------- | --------- |
 | 4400 | Vector Calculus |
 | 4205 | UG Topics in Analysis: Intro to Hilbert Space (×2) |
 | 4200/5 |  Mathematical Analysis I/II (×2/×2) |
