@@ -55,7 +55,7 @@ redirect_from:
   
 ## Teaching
 
-  <!---<ul>{% for post in site.teaching %}
+  <!--- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> --->
   
@@ -74,3 +74,11 @@ redirect_from:
 * 2010: Institute for Mathematics and its Applications, $5,000. Principal Investigator, Title of Project: Rocky Mountain Summer School: “Conservation Laws & Applications”.
 
 * 2009–2014: National Science Foundation (DMS-0845127), $409,998. Principal Investigator, Title of Project: CAREER: Wyoming Applied Analysis & Computing Group: Behavior of Solutions of Nonlinear Partial Differential Equations.
+
+## Reviewer/Referee:
+* Conference Abstracts: Young Mathematicians Conference (Ohio State)
+
+* Journals (Selected): *International Mathematics Research Notices*, *Journal of Differential Equations*, *Journal of Mathematical Analysis and Applications*, *Journal of Mathematical Physics*, *Journal of Physics A*, *Nonlinearity*, *Physica D*, *Proceedings of the Royal Society A*, *SIAM Journal on Mathematical Analysis*, *Studies in Applied Mathematics*
+* Book Proposals: J. Wiley & Sons, Inc.
+* Grant Proposals: National Science Foundation (USA) — Panel Reviewer (×5)
+* External Reviewer for University Tenure and/or Promotion (×2)
