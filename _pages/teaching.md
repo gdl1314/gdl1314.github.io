@@ -44,3 +44,13 @@ author_profile: true
 | 156 | Applied Honors Calculus II |
 | 115 | Calculus I |
 
+### Indiana University (1996 - 2002)
+#### Undergraduate Courses
+
+| Course Number | Title | 
+| :----- | ----- | 
+| M119 | Brief Calculus |
+| D116/7 | Introduction to Finite Math 1/2 
+| T104 | Math for Elementary Teachers (×5) |
+| M025 | Pre-Calculus (×2) |
+| X018 | Algebra for Finite Math |
