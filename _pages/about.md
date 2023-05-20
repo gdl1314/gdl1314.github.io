@@ -19,7 +19,7 @@ More recently, my interests have broadened to include data-driven modeling and m
 
 ### Other Stuff
 
-I grew up in Fort Wayne, Indiana (the one-time magnet wire capital of the world). Outside of mathematics, I enjoy skiing, attempting to solve the New York Times crossword puzzle, drinking good coffee, and passionately following the (mis)fortunes of the Indiana University basketball team.
+I grew up in Fort Wayne, Indiana (the one-time magnet wire capital of the world). Outside of mathematics, I enjoy alpine skiing, attempting to solve the New York Times crossword puzzle, drinking good coffee, and passionately following the (mis)fortunes of the Indiana University basketball teams.
 
 ### Oldies but goodies. 
 
@@ -32,4 +32,6 @@ Some older papers of which I am especially fond for one reason or another...
   * DOI: [10.1007/s00205-008-0195-4](https://dx.doi.org/10.1007/s00205-008-0195-4)
 * Gregory Lyng & Peter D. Miller, The *N*-soliton of the focusing nonlinear Schrödinger equation for *N* large. *Communications on Pure and Applied Mathematics*, **60** (2007): 951–1026.
   * DOI: [10.1002/cpa.20162](https://dx.doi.org/10.1002/cpa.20162)
+* H. Kristian Jenssen, Gregory Lyng, & Mark Williams, Equivalence of low-frequency stability conditions for multidimensional detonations in three models of combustion. *Indiana University Mathematics Journal*, **54** (2005): 1–64. 
+  * DOI: [10.1512/iumj.2005.54.2685](https://dx.doi.org/10.1512/iumj.2005.54/2685)
 
