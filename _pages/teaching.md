@@ -5,8 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Industrial Training - UnitedHealth Group
+- Linear Algebra for Data Scientists (May & June 2018) 
+- Machine Learning for Healthcare (December 2019)
 
-## Archive of Classroom Teaching  
+## University Classroom Teaching  
 ### University of Wyoming (2005 - 2018)
 #### Undergraduate Courses
 
