@@ -19,7 +19,7 @@ More recently, my interests have broadened to include data-driven modeling and m
 
 ### Other stuff about me.
 
-I grew up in Fort Wayne, Indiana (the one-time magnet wire capital of the world). Outside of mathematics, I enjoy alpine skiing, attempting to solve the New York Times crossword puzzle, drinking good coffee, and passionately following the (mis)fortunes of the Indiana University basketball teams. My wife and I live in Minneapolis, MN with two senior dogs. 
+I grew up in Fort Wayne, Indiana (the one-time magnet wire capital of the world). Outside of mathematics, I enjoy alpine skiing (especially in the trees at Steamboat), attempting to solve the New York Times crossword puzzle, drinking good coffee, and passionately following the (mis)fortunes of the Indiana University basketball teams. My wife and I live in Minneapolis, MN with two senior dogs. 
 
 ### Oldies but goodies. 
 
