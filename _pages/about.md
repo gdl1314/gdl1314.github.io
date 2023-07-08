@@ -13,17 +13,17 @@ I am a mathematician by training.
 
 ### Research interests.
 
-Broadly, my early work focused on the behavior of solutions of nonlinear partial differential equations modeling physical phenomena. Most of those early projects featured an interplay of techniques and ideas from some combination of rigorous real, complex, and functional analysis; numerical computation; dynamical systems; and modern asymptotic methods.
+My early work focused on the behavior of solutions of nonlinear partial differential equations modeling physical phenomena. Most of those early projects featured an interplay of techniques and ideas from some combination of rigorous real, complex, and functional analysis; numerical computation; dynamical systems; and modern asymptotic methods.
 
 More recently, my interests have broadened to include data-driven modeling and machine learning for healthcare applications. In the healthcare domain, I am especially interested in the interaction between data and model, and the wide variety and utility of "real" health data.
 
 ### Other stuff about me.
 
-I grew up in Fort Wayne, Indiana (the one-time magnet wire capital of the world). Outside of mathematics, I enjoy alpine skiing (especially in the trees at Steamboat), attempting to solve the New York Times crossword puzzle, drinking good coffee, and passionately following the (mis)fortunes of the Indiana University basketball teams. My wife and I live in Minneapolis, MN with two senior dogs. 
+I grew up in Fort Wayne, Indiana (the one-time magnet wire capital of the world). Outside of mathematics, I love alpine skiing (especially in the trees at Steamboat), attempting to solve the New York Times crossword puzzle for time, drinking good coffee, and passionately following the (mis)fortunes of the Indiana University basketball teams. My wife and I live in Minneapolis, MN with two senior dogs. 
 
 ### Oldies but goodies. 
 
-Some older papers of which I am especially fond for one reason or another...
+Some papers of which I am especially fond for one reason or another...
 
 * Long Lee, Gregory Lyng, & Irena Vankova, [The Gaussian semiclassical soliton ensemble and numerical methods for the focusing nonlinear Schrödinger equation](https://dx.doi.org/10.1016/j.physd.2012.08.006). *Physica D*, **241** (2012): 1767–1781.
 * Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, [Spectral stability of ideal-gas shock layers](https://dx.doi.org/10.1007/s00205-008-0195-4). *Archive for Rational Mechanics and Analysis*, 194 (2009): 1029–1079.
