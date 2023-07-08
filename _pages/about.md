@@ -15,7 +15,7 @@ I am a mathematician by training.
 
 Broadly, my early work focused on the behavior of solutions of nonlinear partial differential equations modeling physical phenomena. Most of those early projects featured an interplay of techniques and ideas from some combination of rigorous real, complex, and functional analysis; numerical computation; dynamical systems; and modern asymptotic methods.
 
-More recently, my interests have broadened to include data-driven modeling and machine learning with healthcare applications. In the healthcare domain, I am especially interested in the interaction between data and model, and the wide variety of relevant, real world data.
+More recently, my interests have broadened to include data-driven modeling and machine learning for healthcare applications. In the healthcare domain, I am especially interested in the interaction between data and model, and the wide variety and utility of "real" health data.
 
 ### Other stuff about me.
 
