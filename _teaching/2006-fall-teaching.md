@@ -1,10 +1,10 @@
 ---
-title: "Fall 2005"
+title: "Fall 2006"
 collection: teaching
 type: "classroom"
-permalink: /teaching/2005-fall-teaching
+permalink: /teaching/2006-fall-teaching
 venue: "University of Wyoming, Mathematics"
-date: 2005-09-01
+date: 2006-09-01
 location: "Laramie, WY"
 ---
 
