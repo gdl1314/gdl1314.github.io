@@ -68,6 +68,35 @@ redirect_from:
 
 * 2009–2014: National Science Foundation (DMS-0845127), $409,998. Principal Investigator, Title of Project: CAREER: Wyoming Applied Analysis & Computing Group: Behavior of Solutions of Nonlinear Partial Differential Equations.
 
+## PhD/MS Students at U. Wyoming
+
+- Kristen Shavlik, PhD, U. Wyoming (Co-chair with L. Lee) 
+  - Dissertation: *Computational methods for the nonselfadjoint Zakharov--Shabat eigenvalue problem*
+  - Defense: May 2019  
+  - After Wyoming: InTrack Radar Technologies, Inc.
+
+- Rachel Jennings, PhD, U. Wyoming (Co-chair with R.\ Liu)
+  - Dissertation: *Environmental heterogeneity and host condition in the transmission of low pathogenic avian influenza among migratory wild birds*
+  - Defense: June 2016
+  - After Wyoming: Postdoc, Population Medicine & Diagnostic Sciences, Cornell U.
+
+- Yi-Hung Kuo, PhD, U.Wyoming (Co-chair with L.\ Lee)
+  - Dissertation: *Analysis and development of compact finite difference schemes with optimized numerical dispersion relations* 
+  - Defense: September 2014
+  - After Wyoming: Grad School, Atmospheric & Oceanic Sciences, UCLA
+
+- Eric Quade, PhD, U. Wyoming
+  - Dissertation: *A new construction of viscous weak detonation waves*
+  - Defense: August 2012
+  - After Wyoming: Faculty, Laramie County Community College
+
+- Michael Bostick, MS, U. Wyoming
+  - Thesis: *Combustion waves with multistep chemistry*
+  - Defense: December 2009 
+  - After Wyoming: Faculty, Central Wyoming College
+
+
+
 ## Reviewer/Referee:
 * Conference Abstracts: Young Mathematicians Conference (Ohio State)
 
