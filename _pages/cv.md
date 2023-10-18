@@ -73,12 +73,12 @@ redirect_from:
   - Defense: May 2019  
   - After Wyoming: InTrack Radar Technologies, Inc.
 
-- Rachel Jennings, PhD, U. Wyoming (Co-chair with R.\ Liu)
+- Rachel Jennings, PhD, U. Wyoming (Co-chair with R. Liu)
   - Dissertation: *Environmental heterogeneity and host condition in the transmission of low pathogenic avian influenza among migratory wild birds*
   - Defense: June 2016
   - After Wyoming: Postdoc, Population Medicine & Diagnostic Sciences, Cornell U.
 
-- Yi-Hung Kuo, PhD, U.Wyoming (Co-chair with L.\ Lee)
+- Yi-Hung Kuo, PhD, U.Wyoming (Co-chair with L. Lee)
   - Dissertation: *Analysis and development of compact finite difference schemes with optimized numerical dispersion relations* 
   - Defense: September 2014
   - After Wyoming: Grad School, Atmospheric & Oceanic Sciences, UCLA
