@@ -24,7 +24,7 @@ American Thoracic Society International Conference, San Francisco, CA: May 2022.
 
 - Gregory D. Lyng, Natalie E. Sheils, Caleb J. Kennedy, Daniel O. Griffin, Ethan M. Berke, Identifying optimal COVID-19 testing strategies for schools and businesses: Balancing testing frequency, individual test technology, and cost, *PLoS One*, **16** (2021): e0248783, 13pp.
 
-- Mathew A. Johnson, Gregory D. Lyng, & Connor Smith$, On the dynamics of traveling fronts arising in nanoscale pattern formation, *Physica D*, **401** (2020): 132184, 16 pp. 
+- Mathew A. Johnson, Gregory D. Lyng, & Connor Smith, On the dynamics of traveling fronts arising in nanoscale pattern formation, *Physica D*, **401** (2020): 132184, 16 pp. 
 
 -  Blake Barker, Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, Euler vs Lagrange: The role of coordinates in practical Evans-function computation, *SIAM Journal on Applied Dynamical Systems*, **17** (2018): 1766--1785. 
 
