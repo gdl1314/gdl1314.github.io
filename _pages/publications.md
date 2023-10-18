@@ -86,3 +86,14 @@ One-dimensional stability of viscous strong detonation waves.
 
 - Gregory Lyng & Kevin Zumbrun, A stability index for detonation waves in Majda's model for reacting flow. *Physica D*, **194** (2004): 1--29. 
 
+### Working Papers, Reports, Preprints
+
+- Natalie E. Sheils, Gregory D. Lyng, & Ethan M. Berke, Updating herd immunity models for the U.S. in 2020: Implications for the COVID-19 response, preprint, 20 pages, 2020. 
+  - Preprint: [medRxiv 2020.10.05.20207100](https://doi.org/10.1101/2020.10.05.20207100)
+  - Press: Georgiou, A. (October 9, 2020). [Newsweek](https://www.newsweek.com/united-states-herd-immunity-infection-rate-1537880)
+
+- UnitedHealth Group Research & Development, Focus Area Report (*Confidential*), 75 pages, 2019.   
+  - Lead author: Focus Area Reports were used internally by UHG and UHG R\&D to stand up research initiatives and to shape and inform investment decision-making. These reports present a panoramic view of a critical healthcare domain from a scientific point of view that incorporates clinical and business perspectives.
+
+- Yi-Hung Kuo, Long Lee, & Gregory Lyng, Analysis and development of compact finite difference schemes with optimized numerical dispersion relations, preprint, 43 pages, 2014. 
+ - Preprint: [arXiv:1409.3535](https://arxiv.org/abs/1409.3535)
