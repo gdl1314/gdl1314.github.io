@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " CV"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -31,7 +31,7 @@ redirect_from:
   * Ph.D., Mathematics, **2002**
     * Dissertation: *One dimensional stability of detonation waves*
     * Advisor: Kevin Zumbrun
-    * Committee: D. Hoff (Indiana), J. Rubinstein (Technion), S. Wang (Indiana)
+    * Committee: D. Hoff (Indiana), J. Rubinstein (Technion/Indiana), S. Wang (Indiana)
   * M.A. Mathematics, Indiana University, Bloomington, IN,  **1999**
 * [St. Olaf College](http://stolaf.edu), Northfield, MN.
   * B.A. *magna cum laude*, Mathematics, **1996**
@@ -52,13 +52,7 @@ redirect_from:
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-## Teaching
-
-  <!--- <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> --->
-  
+    
 ## Awards
 
 * I've won stuff. 
