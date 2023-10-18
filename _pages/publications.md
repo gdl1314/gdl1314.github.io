@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Refereed Journal & Conference Publications
+### refereed journal & conference publications
 
 -  Elena Engel, Andrew Hill, Ann Granchelli, Gabriel Lockhart, Gregory Lyng, Leanne Kaye, Helena Lyson, Russell P. Bowler, 
 *Wearable Sensors for Early Detection of COPD Exacerbations*, 
@@ -85,7 +85,7 @@ One-dimensional stability of viscous strong detonation waves.
 
 - Gregory Lyng & Kevin Zumbrun, A stability index for detonation waves in Majda's model for reacting flow. *Physica D*, **194** (2004): 1--29. 
 
-### Working Papers, Reports, Preprints
+### working papers, reports, preprints
 
 - Natalie E. Sheils, Gregory D. Lyng, & Ethan M. Berke, Updating herd immunity models for the U.S. in 2020: Implications for the COVID-19 response, preprint, 20 pages, 2020. 
   - Preprint: [medRxiv 2020.10.05.20207100](https://doi.org/10.1101/2020.10.05.20207100)
@@ -97,6 +97,6 @@ One-dimensional stability of viscous strong detonation waves.
 - Yi-Hung Kuo, Long Lee, & Gregory Lyng, Analysis and development of compact finite difference schemes with optimized numerical dispersion relations, preprint, 43 pages, 2014. 
   - Preprint: [arXiv:1409.3535](https://arxiv.org/abs/1409.3535)
 
-### Course Notes and Other Materials
+### course notes and other materials
 
 - Coming soon(-ish). 

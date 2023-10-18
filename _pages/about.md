@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-### Background. 
+### background. 
 I am a mathematician by training.  
 
-### Research interests.
+### research interests.
 
 My early research work focused on the behavior of solutions of nonlinear partial differential equations modeling physical phenomena. Most of those early projects featured an interplay of elements from some combination of rigorous real, complex, and functional analysis; numerical computation; dynamical systems; and/or modern asymptotic methods.
 
 More recently, my interests have broadened to include data-driven modeling and machine learning for healthcare applications. In the healthcare domain, I am especially interested in the interaction between data and model, and the wide variety and utility of "real" health data.
 
-### Other stuff about me.
+### other stuff about me.
 
 I grew up in [Fort Wayne](https://en.wikipedia.org/wiki/Fort_Wayne,_Indiana), Indiana (the one-time magnet wire capital of the world). Outside of mathematics, I love alpine skiing (my happy place is anywhere in the trees at [Steamboat](https://www.steamboat.com)), attempting to solve the [New York Times](https://www.nytimes.com/) crossword puzzle for time (Saturday PR: 19:18), drinking good coffee, trying to make good coffee, and passionately following the (mis)fortunes of the Indiana University basketball teams. My wife and I live in Minneapolis, MN with one very (very!) senior dog. 
 
-### Oldies but goodies. 
+### oldies but goodies. 
 
 Some papers of which I am especially fond for one reason or another...
 
