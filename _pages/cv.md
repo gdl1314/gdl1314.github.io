@@ -131,7 +131,7 @@ redirect_from:
   - After Wyoming: Grad School, Mathematics, Wyoming
 
 - Brian Kim, Michigan (Summer 2004)
-  -Topic: Traveling-Wave Front Solutions of Diffusive Predator-Prey Equations.
+  - Topic: Traveling-Wave Front Solutions of Diffusive Predator-Prey Equations.
   - After Michigan: Grad School, Biostatistics, Florida State
 
 
