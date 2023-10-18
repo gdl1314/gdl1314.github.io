@@ -40,7 +40,7 @@ redirect_from:
 
 ## Publications
   
-{% site.publications %}
+[List of Publications](https://gdl1314.github.io/publications/)
   
 ## Published Patents
 
