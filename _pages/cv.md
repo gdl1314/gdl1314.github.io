@@ -48,9 +48,7 @@ redirect_from:
 
 ## Talks
 
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[List of Talks](https://gdl1314.github.io/talks)
     
 ## Awards
 
