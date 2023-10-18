@@ -136,7 +136,7 @@ redirect_from:
 
 
 
-## reviewer/referee:
+## reviewer/referee
 * Conference Abstracts: Young Mathematicians Conference (Ohio State)
 
 * Journals (Selected): *International Mathematics Research Notices*, *Journal of Differential Equations*, *Journal of Mathematical Analysis and Applications*, *Journal of Mathematical Physics*, *Journal of Physics A*, *Nonlinearity*, *Physica D*, *Proceedings of the Royal Society A*, *SIAM Journal on Mathematical Analysis*, *Studies in Applied Mathematics*
