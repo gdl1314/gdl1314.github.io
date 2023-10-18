@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-## Positions
+## positions
 * **2018 - Present**: [UnitedHealth Group](https://www.unitedhealthgroup.com).
   * Research Fellow
 
@@ -26,7 +26,7 @@ redirect_from:
   * Post-Doctoral Assistant Professor
   * Mentors: Peter Miller & Joel Smoller
   
-## Education
+## education
 * [Indiana University](http://www.iub.edu), Bloomington, IN.
   * Ph.D., Mathematics, **2002**
     * Dissertation: *One dimensional stability of detonation waves*
@@ -38,23 +38,23 @@ redirect_from:
 * [Trinity College Dublin, The University of Dublin](http://www.tcd.ie), Dublin, Ireland.
   * Visiting Student, Mathematics & Classics, **1994 - 1995**
 
-## Publications
+## publications
   
 [List of Publications](https://gdl1314.github.io/publications/)
   
-## Published Patents
+## published patents
 
 * Irfan Bulu & Gregory D. Lyng, Dynamically Parameterized Machine Learning Frameworks, Application: 17/484,571, Filed with USPTO: September 24, 2021. Patent Pending.
 
-## Talks
+## talks
 
 [List of Talks](https://gdl1314.github.io/talks)
     
-## Awards
+## awards
 
 * I've won stuff. 
 
-## Academic Funding 
+## academic funding 
 
 * 2016–2019: National Science Foundation (DMS-1551236), $599,471. Principal Investigator, Title of Project: EDT/Collaborative Research— FRAMEWORK: Front Range Applied Mathematics Exchanges & Workshops, [Co-PIs: M. Allen (U. Wyoming), S. Pankavich & B. Moskal (Colorado School of Mines)].
 
@@ -66,7 +66,7 @@ redirect_from:
 
 * 2009–2014: National Science Foundation (DMS-0845127), $409,998. Principal Investigator, Title of Project: CAREER: Wyoming Applied Analysis & Computing Group: Behavior of Solutions of Nonlinear Partial Differential Equations.
 
-## PhD/MS Students at U. Wyoming
+## phd/ms students
 
 - Kristen Shavlik, PhD, U. Wyoming (Co-chair with L. Lee) 
   - Dissertation: *Computational methods for the nonselfadjoint Zakharov--Shabat eigenvalue problem*
@@ -93,9 +93,50 @@ redirect_from:
   - Defense: December 2009 
   - After Wyoming: Faculty, Central Wyoming College
 
+## undergraduate research & independent study students
+- Josiah Batson, Wyoming (Summer 2015, Co-mentor w/ L.\ Lee)
+  - Topic: Random semiclassical soliton ensembles 
+  - After Wyoming: Grad School, Electrical Engineering, Wyoming.
+
+- Christian Waddey, Wyoming (Summer/Fall 2014) 
+  - Topic: Pseudospectrum \\
+  - After Wyoming: Grad School, Mathematics, Wyoming.
+
+- George Wheeler, Wyoming (Summer 2013)
+  - Topic: Weakly stable multidimensional shocks in $2\times 2$ systems
+  - After Wyoming: Grad School, Mathematics, Wyoming.
+
+- Yeongjoh Kim, Wyoming (Summer 2013, Co-mentor w/ L.\ Lee) 
+  - Topic: Eigenvalues of the Zakharov--Shabat Problem 
+  - After Wyoming: Grad School, Mathematics, Wyoming.
+
+- Allison Lindgren, Wyoming (Summer 2012)
+  - Topic: Refined stability - the scalar case. 
+  - After Wyoming: Grad School, Mechanical Engineering, Northern Arizona
+
+- Samuel Pasco, Wyoming (Summer 2011) 
+  - Topic: Supercontinuum generation
+  - After Wyoming: Basin Electric Power Cooperative
+
+- Irena Vankova, Wyoming (Spring/Summer 2011, Co-mentor w/ L. Lee)
+  - Topic: Semiclassical Soliton Ensembles 
+  - After Wyoming: Grad School, Applied Mathematics, NYU
+
+- Stephen Bagley, Wyoming, (Summer 2010)  
+  - Topic: Refined Stability of Navier--Stokes Shocks.
+  - After Wyoming: Grad School, Mathematics, Utah
+
+- Nicholas Anderson, Wyoming, (Summer 2010) 
+  - Topic: Refined Stability of Navier--Stokes Shocks.
+  - After Wyoming: Grad School, Mathematics, Wyoming
+
+- Brian Kim, Michigan (Summer 2004) 
+  -Topic: Traveling-Wave Front Solutions of Diffusive Predator-Prey Equations.
+  - After Michigan: Grad School, Biostatistics, Florida State
 
 
-## Reviewer/Referee:
+
+## reviewer/referee:
 * Conference Abstracts: Young Mathematicians Conference (Ohio State)
 
 * Journals (Selected): *International Mathematics Research Notices*, *Journal of Differential Equations*, *Journal of Mathematical Analysis and Applications*, *Journal of Mathematical Physics*, *Journal of Physics A*, *Nonlinearity*, *Physica D*, *Proceedings of the Royal Society A*, *SIAM Journal on Mathematical Analysis*, *Studies in Applied Mathematics*
