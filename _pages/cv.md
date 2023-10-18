@@ -94,12 +94,12 @@ redirect_from:
   - After Wyoming: Faculty, Central Wyoming College
 
 ## undergraduate research & independent study students
-- Josiah Batson, Wyoming (Summer 2015, Co-mentor w/ L.\ Lee)
+- Josiah Batson, Wyoming (Summer 2015, Co-mentor w/ L. Lee)
   - Topic: Random semiclassical soliton ensembles 
   - After Wyoming: Grad School, Electrical Engineering, Wyoming.
 
 - Christian Waddey, Wyoming (Summer/Fall 2014) 
-  - Topic: Pseudospectrum \\
+  - Topic: Pseudospectrum 
   - After Wyoming: Grad School, Mathematics, Wyoming.
 
 - George Wheeler, Wyoming (Summer 2013)
@@ -130,7 +130,7 @@ redirect_from:
   - Topic: Refined Stability of Navier--Stokes Shocks.
   - After Wyoming: Grad School, Mathematics, Wyoming
 
-- Brian Kim, Michigan (Summer 2004) 
+- Brian Kim, Michigan (Summer 2004)
   -Topic: Traveling-Wave Front Solutions of Diffusive Predator-Prey Equations.
   - After Michigan: Grad School, Biostatistics, Florida State
 
