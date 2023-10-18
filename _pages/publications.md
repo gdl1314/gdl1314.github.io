@@ -22,7 +22,6 @@ NeurIPS 2022 Workshop on Learning from Time Series for Health. 2022.
 *Wearable Sensors for Early Detection of COPD Exacerbations*, 
 American Thoracic Society International Conference, San Francisco, CA: May 2022. 
 
-
 - Gregory D. Lyng, Natalie E. Sheils, Caleb J. Kennedy, Daniel O. Griffin, Ethan M. Berke, Identifying optimal COVID-19 testing strategies for schools and businesses: Balancing testing frequency, individual test technology, and cost, *PLoS One*, **16** (2021): e0248783, 13pp.
 
 - Mathew A. Johnson, Gregory D. Lyng, & Connor Smith$, On the dynamics of traveling fronts arising in nanoscale pattern formation, *Physica D*, **401** (2020): 132184, 16 pp. 
@@ -93,11 +92,11 @@ One-dimensional stability of viscous strong detonation waves.
   - Press: Georgiou, A. (October 9, 2020). [Newsweek](https://www.newsweek.com/united-states-herd-immunity-infection-rate-1537880)
 
 - UnitedHealth Group Research & Development, Focus Area Report (*Confidential*), 75 pages, 2019.   
-  - Lead author: Focus Area Reports were used internally by UHG and UHG R\&D to stand up research initiatives and to shape and inform investment decision-making. These reports present a panoramic view of a critical healthcare domain from a scientific point of view that incorporates clinical and business perspectives.
+  - Lead author: Focus Area Reports were used internally by UHG and UHG R&D to stand up research initiatives and to shape and inform investment decision-making. These reports present a panoramic view of a critical healthcare domain from a scientific point of view that incorporates clinical and business perspectives.
 
 - Yi-Hung Kuo, Long Lee, & Gregory Lyng, Analysis and development of compact finite difference schemes with optimized numerical dispersion relations, preprint, 43 pages, 2014. 
- - Preprint: [arXiv:1409.3535](https://arxiv.org/abs/1409.3535)
+  - Preprint: [arXiv:1409.3535](https://arxiv.org/abs/1409.3535)
 
 ### Course Notes and Other Materials
 
-- Coming. 
+- Coming soon(-ish). 
