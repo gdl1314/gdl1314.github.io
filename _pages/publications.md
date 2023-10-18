@@ -29,7 +29,7 @@ American Thoracic Society International Conference, San Francisco, CA: May 2022.
 
 -  Blake Barker, Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, Euler vs Lagrange: The role of coordinates in practical Evans-function computation, *SIAM Journal on Applied Dynamical Systems*, **17** (2018): 1766--1785. 
 
- - Blake Barker, Jeffrey Humpherys, Gregory Lyng, & Joshua Lytle, Computational Evans function techniques for the stability of travelling waves, *Philosophical Transactions of the Royal Society A*, **376** (2018): 20170184, 25 pp.  
+- Blake Barker, Jeffrey Humpherys, Gregory Lyng, & Joshua Lytle, Computational Evans function techniques for the stability of travelling waves, *Philosophical Transactions of the Royal Society A*, **376** (2018): 20170184, 25 pp.  
 
 - Blake Barker, Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, Balanced flux formulations for multidimensional Evans-function computations for viscous shocks, *Quarterly of Applied Mathematics*, **76** (2018): 531--545.
 
@@ -97,3 +97,7 @@ One-dimensional stability of viscous strong detonation waves.
 
 - Yi-Hung Kuo, Long Lee, & Gregory Lyng, Analysis and development of compact finite difference schemes with optimized numerical dispersion relations, preprint, 43 pages, 2014. 
  - Preprint: [arXiv:1409.3535](https://arxiv.org/abs/1409.3535)
+
+### Course Notes and Other Materials
+
+- Coming. 
