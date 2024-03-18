@@ -13,13 +13,13 @@ I am a mathematician by training.
 
 ### research interests.
 
-My early research work focused on the behavior of solutions of nonlinear partial differential equations modeling physical phenomena. Most of those early projects featured an interplay of elements from some combination of rigorous real, complex, and functional analysis; numerical computation; dynamical systems; and/or modern asymptotic methods.
+My early research work focused on the behavior of solutions of nonlinear partial differential equations, especially in scenarios where the solutions represent important physical phenomena. Most of those projects featured an interplay of elements from some combination of rigorous real, complex, and functional analysis; numerical computation; dynamical systems; and/or modern asymptotic methods.
 
 More recently, my interests have broadened to include data-driven modeling and machine learning for healthcare applications. In the healthcare domain, I am especially interested in the interaction between data and model, and the wide variety and utility of "real" health data.
 
 ### other stuff about me.
 
-I grew up in [Fort Wayne](https://en.wikipedia.org/wiki/Fort_Wayne,_Indiana), Indiana (the one-time magnet wire capital of the world). Outside of mathematics, I love alpine skiing (my happy place is somewhere near the Bar-UE lift at [Steamboat](https://www.steamboat.com)), attempting to solve the [New York Times](https://www.nytimes.com/) crossword puzzle, drinking good coffee, trying to make good coffee, and passionately following the (mis)fortunes of the Indiana University basketball teams. My wife and I live in Minneapolis, MN with one very (very!) senior dog. 
+I grew up in [Fort Wayne](https://en.wikipedia.org/wiki/Fort_Wayne,_Indiana), Indiana (the one-time magnet wire capital of the world). Outside of mathematics, I love alpine skiing (my happy place is somewhere near the Bar-UE lift at [Steamboat](https://www.steamboat.com)), attempting to solve the [New York Times](https://www.nytimes.com/) crossword puzzle, drinking good coffee, and trying to make good coffee. My wife and I live in Minneapolis, MN with one very (very!) senior dog. In the summer we can often be found at Target Field cheering the [Twins](https://www.mlb.com/twins)
 
 ### oldies but goodies. 
 
