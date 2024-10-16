@@ -34,7 +34,7 @@ redirect_from:
   * Ph.D., Mathematics, **2002**
     * Dissertation: *One dimensional stability of detonation waves*
     * Advisor: Kevin Zumbrun
-    * Committee: D. Hoff (Indiana), J. Rubinstein (Technion/Indiana), S. Wang (Indiana)
+    * Committee: D. Hoff (Indiana), J. Rubinstein (Technion), S. Wang (Indiana)
   * M.A. Mathematics, Indiana University, Bloomington, IN,  **1999**
 * [St. Olaf College](http://stolaf.edu), Northfield, MN.
   * B.A. *magna cum laude*, Mathematics, **1996**
@@ -47,35 +47,17 @@ redirect_from:
   
 ## published patents
 
-* Application of personalized sensor-based risk profiles for impacts of external events
-    - GD Lyng, BL Hill, J Zou, KM Karkkainen, K Vodrahalli, E Halperin
-    - US Patent App. 18/211,988
-    - 2024
+* *Application of personalized sensor-based risk profiles for impacts of external events*, GD Lyng, BL Hill, J Zou, KM Karkkainen, K Vodrahalli, E Halperin. US Patent App. 18/211,988 (2024)
 
-* Machine learning techniques for generating cross-temporal search result prediction
-    - C Unsal, GD Lyng, I Bulu
-    - US Patent App. 17/938,575
-    - 2024
+* *Machine learning techniques for generating cross-temporal search result prediction*, C Unsal, GD Lyng, I Bulu. US Patent App. 17/938,575 (2024)
 
-* Processing different timescale data utilizing a model
-    - GD Lyng, E Halperin, BL Hill, KM Karkkainen, K Vodrahalli
-    - US Patent App. 18/325,598
-		- 2024
+* *Processing different timescale data utilizing a model*, GD Lyng, E Halperin, BL Hill, KM Karkkainen, K Vodrahalli. US Patent App. 18/325,598 (2024)
 
-* Individualized classification thresholds for machine learning models
-    - DRC Dahlem, GD Lyng, CA Hane, E Halperin
-    - US Patent App. 18/172,519
-    - 2024
+* *Individualized classification thresholds for machine learning models*, DRC Dahlem, GD Lyng, CA Hane, E Halperin. US Patent App. 18/172,519 (2024)
 
-* Individualized classification thresholds for machine learning models
-    - DRC Dahlem, GD Lyng, CA Hane, E Halperin
-    - US Patent App. 18/172,521
-		- 2024
+* *Individualized classification thresholds for machine learning models*, DRC Dahlem, GD Lyng, CA Hane, E Halperin. US Patent App. 18/172,521 (2024)
 
-* Dynamically parameterized machine learning frameworks
-    - I Bulu, GD Lyng
-    - US Patent App. 17/484,571
-    - 2023
+* *Dynamically parameterized machine learning frameworks*, I Bulu, GD Lyng. US Patent App. 17/484,571 (2023)
 	
 
 ## talks
