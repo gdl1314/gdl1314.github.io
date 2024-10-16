@@ -12,8 +12,11 @@ redirect_from:
 ---
 
 ## positions
-* **2018 - Present**: [UnitedHealth Group](https://www.unitedhealthgroup.com).
-  * Research Fellow
+* **2023 - Present**: [Optum](https://optum.com), Eden Prairie, MN.
+  * Senior Director, Optum AI
+
+* **2018 - 2023**: [UnitedHealth Group](https://www.unitedhealthgroup.com), Minnetonka, MN.
+  * Research Fellow, UHG R&D
 
 * **2005 - 2018**:  [University of Wyoming](http://www.uwyo.edu), Laramie, WY.
   * Department Head, Mathematics & Statistics (2017 - 2018)
@@ -44,7 +47,36 @@ redirect_from:
   
 ## published patents
 
-* Irfan Bulu & Gregory D. Lyng, Dynamically Parameterized Machine Learning Frameworks, Application: 17/484,571, Filed with USPTO: September 24, 2021. Patent Pending.
+* Application of personalized sensor-based risk profiles for impacts of external events
+    - GD Lyng, BL Hill, J Zou, KM Karkkainen, K Vodrahalli, E Halperin
+    - US Patent App. 18/211,988
+    - 2024
+
+* Machine learning techniques for generating cross-temporal search result prediction
+    - C Unsal, GD Lyng, I Bulu
+    - US Patent App. 17/938,575
+    - 2024
+
+* Processing different timescale data utilizing a model
+    - GD Lyng, E Halperin, BL Hill, KM Karkkainen, K Vodrahalli
+    - US Patent App. 18/325,598
+		- 2024
+
+* Individualized classification thresholds for machine learning models
+    - DRC Dahlem, GD Lyng, CA Hane, E Halperin
+    - US Patent App. 18/172,519
+    - 2024
+
+* Individualized classification thresholds for machine learning models
+    - DRC Dahlem, GD Lyng, CA Hane, E Halperin
+    - US Patent App. 18/172,521
+		- 2024
+
+* Dynamically parameterized machine learning frameworks
+    - I Bulu, GD Lyng
+    - US Patent App. 17/484,571
+    - 2023
+	
 
 ## talks
 
