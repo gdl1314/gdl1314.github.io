@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-> He was very friendly, humorous, and he taught and knew the material exceptionally well. I stayed awake often despite it being an early class. ---a calculus student from many years ago
+> He was very friendly, humorous, and he taught and knew the material exceptionally well. I stayed awake often despite it being an early class. ---anonymous calculus student from many, many years ago
 
 ## Industrial Training - UnitedHealth Group
 - Linear Algebra for Data Scientists (May & June 2018) 

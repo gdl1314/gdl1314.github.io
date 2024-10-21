@@ -68,7 +68,7 @@ Pointwise Green function bounds and the stability of combustion waves.
 - Gregory Lyng & Peter D. Miller, The *N*-soliton of the focusing nonlinear
 Schroedinger equation for *N* large. *Communications on Pure and Applied Mathematics*, *60* (2007): 951--1026.
 
-- Gregory Lyng, Kevin Zumbrun, & H. Kristian Jenssen, Stability of detonation waves,**EQUADIFF 2003**, 517--519 World Sci. Publ., Hackensack, New Jersey, 2005.
+- Gregory Lyng, Kevin Zumbrun, & H. Kristian Jenssen, Stability of detonation waves, **EQUADIFF 2003**, 517--519 World Sci. Publ., Hackensack, New Jersey, 2005.
 
 - H. Kristian Jenssen, Gregory Lyng, & Mark Williams, Equivalence of low-frequency stability conditions for multidimensional detonations in three models of combustion. *Indiana University Mathematics Journal*, **54** (2005): 1--64. 
 
