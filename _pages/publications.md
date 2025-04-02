@@ -10,7 +10,7 @@ author_profile: true
 - Chufan Gao, Sanjit Singh Batra, Alexander Russell Pelletier, Gregory D. Lyng,
 Eran Halperin, Robert E. Tillman, BioSynNER: Synthetic Data Generation for
 Biomedical Named Entity Recognition, AAAI Workshop on Large Language
-Models and Generative AI for Health, Philadelphia, PA: March 
+Models and Generative AI for Health, Philadelphia, PA: March 2025.
 
 -  Elena Engel, Andrew Hill, Ann Granchelli, Gabriel Lockhart, Gregory Lyng, Leanne Kaye, Helena Lyson, Russell P. Bowler, 
 *Wearable Sensors for Early Detection of COPD Exacerbations*, 
