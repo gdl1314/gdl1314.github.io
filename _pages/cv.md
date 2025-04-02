@@ -16,7 +16,7 @@ redirect_from:
   * Senior Director, Optum AI
 
 * **2018 - 2023**: [UnitedHealth Group](https://www.unitedhealthgroup.com), Minnetonka, MN.
-  * Research Fellow, UHG R&D
+  * Research Fellow, UHG R&D/Optum Labs
 
 * **2005 - 2018**:  [University of Wyoming](http://www.uwyo.edu), Laramie, WY.
   * Department Head, Mathematics & Statistics (2017 - 2018)
@@ -34,7 +34,7 @@ redirect_from:
   * Ph.D., Mathematics, **2002**
     * Dissertation: *One dimensional stability of detonation waves*
     * Advisor: Kevin Zumbrun
-    * Committee: D. Hoff (Indiana), J. Rubinstein (Technion), S. Wang (Indiana)
+    * Committee: D. Hoff (Indiana), J. Rubinstein (Technion/IU), S. Wang (Indiana)
   * M.A. Mathematics, Indiana University, Bloomington, IN,  **1999**
 * [St. Olaf College](http://stolaf.edu), Northfield, MN.
   * B.A. *magna cum laude*, Mathematics, **1996**
