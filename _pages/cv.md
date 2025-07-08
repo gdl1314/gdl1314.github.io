@@ -47,6 +47,8 @@ redirect_from:
   
 ## published patents
 
+* *Optimizing embedding using dimension attention for contrastive learning*, BL Hill, E Halperin, GD Lyng, KM Karkkainen. US Patent App. 18/541,777 (2025)
+
 * *Application of personalized sensor-based risk profiles for impacts of external events*, GD Lyng, BL Hill, J Zou, KM Karkkainen, K Vodrahalli, E Halperin. US Patent App. 18/211,988 (2024)
 
 * *Machine learning techniques for generating cross-temporal search result prediction*, C Unsal, GD Lyng, I Bulu. US Patent App. 17/938,575 (2024)
