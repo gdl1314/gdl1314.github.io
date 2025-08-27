@@ -47,6 +47,8 @@ redirect_from:
   
 ## published patents
 
+* *Systems and methods for intelligent model training using relevant data objects*, G Austin, J Venkataraman, F Mohaghegh, HR Hassanzadeh, JD Stremmel, A Saeedi, GD Lyng, E Halperin, ZM Poornaki, US Patent App. 18/428,206 (2025)
+
 * *Optimizing embedding using dimension attention for contrastive learning*, BL Hill, E Halperin, GD Lyng, KM Karkkainen. US Patent App. 18/541,777 (2025)
 
 * *Application of personalized sensor-based risk profiles for impacts of external events*, GD Lyng, BL Hill, J Zou, KM Karkkainen, K Vodrahalli, E Halperin. US Patent App. 18/211,988 (2024)
