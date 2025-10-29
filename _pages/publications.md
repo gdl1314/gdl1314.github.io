@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "publications"
+title: "publications & patents"
 permalink: /publications/
 author_profile: true
 ---
@@ -89,6 +89,29 @@ One-dimensional stability of viscous strong detonation waves.
 *Archive for Rational Mechanics and Analysis*, **173** (2004): 213--277. 
 
 - Gregory Lyng & Kevin Zumbrun, A stability index for detonation waves in Majda's model for reacting flow. *Physica D*, **194** (2004): 1--29. 
+
+### patents
+
+#### Issued 
+
+* *Dynamically parameterized machine learning frameworks*, I Bulu, GD Lyng. US Patent 12,456,059 (October 28, 2025)
+
+#### published
+
+* *Systems and methods for intelligent model training using relevant data objects*, G Austin, J Venkataraman, F Mohaghegh, HR Hassanzadeh, JD Stremmel, A Saeedi, GD Lyng, E Halperin, ZM Poornaki, US Patent App. 18/428,206 (2025)
+
+* *Optimizing embedding using dimension attention for contrastive learning*, BL Hill, E Halperin, GD Lyng, KM Karkkainen. US Patent App. 18/541,777 (2025)
+
+* *Application of personalized sensor-based risk profiles for impacts of external events*, GD Lyng, BL Hill, J Zou, KM Karkkainen, K Vodrahalli, E Halperin. US Patent App. 18/211,988 (2024)
+
+* *Machine learning techniques for generating cross-temporal search result prediction*, C Unsal, GD Lyng, I Bulu. US Patent App. 17/938,575 (2024)
+
+* *Processing different timescale data utilizing a model*, GD Lyng, E Halperin, BL Hill, KM Karkkainen, K Vodrahalli. US Patent App. 18/325,598 (2024)
+
+* *Individualized classification thresholds for machine learning models*, DRC Dahlem, GD Lyng, CA Hane, E Halperin. US Patent App. 18/172,519 (2024)
+
+* *Individualized classification thresholds for machine learning models*, DRC Dahlem, GD Lyng, CA Hane, E Halperin. US Patent App. 18/172,521 (2024)
+
 
 ### working papers, reports, preprints
 
