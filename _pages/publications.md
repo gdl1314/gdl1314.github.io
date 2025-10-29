@@ -94,7 +94,7 @@ One-dimensional stability of viscous strong detonation waves.
 
 #### Issued 
 
-* *Dynamically parameterized machine learning frameworks*, I Bulu, GD Lyng. US Patent 12,456,059 (October 28, 2025)
+* *Dynamically parameterized machine learning frameworks*, I Bulu, GD Lyng. US Patent 12,456,059 (Oct. 28, 2025)
 
 #### published
 
