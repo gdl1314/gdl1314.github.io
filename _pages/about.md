@@ -21,7 +21,7 @@ More recently, my interests have broadened to include data-driven modeling and m
 
 I grew up in [Fort Wayne](https://en.wikipedia.org/wiki/Fort_Wayne,_Indiana), Indiana (the one-time magnet wire capital of the world). Outside of mathematics, I love alpine skiing (my happy place is an undisclosed location somewhere near the Bar-UE lift at [Steamboat](https://www.steamboat.com)), attempting to solve the [New York Times](https://www.nytimes.com/) crossword puzzle, drinking (and occasionally trying to make) good coffee. My wife and I live in Minneapolis, MN with a retriever mix named Penny.
 
-### warm off the presses 
+### warm off the presses. 
 
 Recent-ish preprints...
 
