@@ -127,4 +127,4 @@ One-dimensional stability of viscous strong detonation waves.
 
 ### course notes and other materials
 
-- Coming soon(-ish). 
+- Coming someday. Perhaps. 
