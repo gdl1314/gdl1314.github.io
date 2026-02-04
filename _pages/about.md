@@ -23,7 +23,9 @@ I grew up in [Fort Wayne](https://en.wikipedia.org/wiki/Fort_Wayne,_Indiana), In
 
 ### hot off the presses (i.e., recent-ish preprints). 
 
-* Zhichao Yang and Sepehr Janghorbani and Dongxu Zhang and Jun Han and Qian Qian and Andrew Ressler II and Gregory D. Lyng and Sanjit Singh Batra and Robert E. Tillman, [Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs](https://arxiv.org/abs/2601.18706), preprint, 2026.
+* Trisha Das, Katherine Kero, Dorinda Schumann, Tracy Ohrt,Sanjit Singh Batra, Gregory D. Lyng, and Robert E. Tillman, [POET: Protocol Optimization via Eligibility Tuning](https://arxiv.org/abs/2602.00370), preprint, 2026. 
+
+* Zhichao Yang, Sepehr Janghorbani, Dongxu Zhang, Jun Han, Qian Qian, Andrew Ressler II, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs](https://arxiv.org/abs/2601.18706), preprint, 2026.
 
 ### oldies but goodies. 
 
