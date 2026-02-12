@@ -120,7 +120,7 @@ One-dimensional stability of viscous strong detonation waves.
 * *Individualized classification thresholds for machine learning models*, DRC Dahlem, GD Lyng, CA Hane, E Halperin. US Patent App. 18/172,521 (2024)
 
 
-### working papers, reports, preprints
+### working papers and reports
 
 - Natalie E. Sheils, Gregory D. Lyng, & Ethan M. Berke, Updating herd immunity models for the U.S. in 2020: Implications for the COVID-19 response, preprint, 20 pages, 2020. 
   - Preprint: [medRxiv 2020.10.05.20207100](https://doi.org/10.1101/2020.10.05.20207100)
