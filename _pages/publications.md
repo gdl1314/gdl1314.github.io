@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Preprints 
+
+- Trisha Das, Katherine Kero, Dorinda Schumann, Tracy Ohrt,Sanjit Singh Batra, Gregory D. Lyng, and Robert E. Tillman, [POET: Protocol Optimization via Eligibility Tuning](https://arxiv.org/abs/2602.00370), preprint, 2026. 
+
+- Zhichao Yang, Sepehr Janghorbani, Dongxu Zhang, Jun Han, Qian Qian, Andrew Ressler II, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs](https://arxiv.org/abs/2601.18706), preprint, 2026.
+
+
 ### refereed journal & conference publications
 
 - Chufan Gao, Sanjit Singh Batra, Alexander Russell Pelletier, Gregory D. Lyng,
