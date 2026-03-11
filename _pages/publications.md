@@ -7,6 +7,8 @@ author_profile: true
 
 ### Preprints 
 
+- Dongkyu Cho, Miao Zhang, Gregory D. Lyng, Rumi Chunara, [Query-based Model Collaboration Enables Expert-level Clinical Text Augmentation](https://openreview.net/pdf?id=qlNlILuLK0), preprint, 2026. 
+
 - Dongxu Zhang, Zhichao Yang, Sepehr Janghorbani, Jun Han, Andrew Ressler II, Qian Qian, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [Fast and Effective On-policy Distillation from Reasoning Prefixes](https://arxiv.org/abs/2602.15260), preprint, 2026.
 
 - Trisha Das, Katherine Kero, Dorinda Schumann, Tracy Ohrt,Sanjit Singh Batra, Gregory D. Lyng, and Robert E. Tillman, [POET: Protocol Optimization via Eligibility Tuning](https://arxiv.org/abs/2602.00370), preprint, 2026. 
