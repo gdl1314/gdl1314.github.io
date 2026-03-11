@@ -105,7 +105,9 @@ One-dimensional stability of viscous strong detonation waves.
 
 ### patents
 
-#### Issued 
+#### Issued/NOA
+
+* *Individualized classification thresholds for machine learning models*, DRC Dahlem, GD Lyng, CA Hane, E Halperin. US Patent App. 18/172,519 (Notice of Allowances: March 2026)
 
 * *Dynamically parameterized machine learning frameworks*, I Bulu, GD Lyng. US Patent 12,456,059 (Oct. 28, 2025)
 
@@ -120,8 +122,6 @@ One-dimensional stability of viscous strong detonation waves.
 * *Machine learning techniques for generating cross-temporal search result prediction*, C Unsal, GD Lyng, I Bulu. US Patent App. 17/938,575 (2024)
 
 * *Processing different timescale data utilizing a model*, GD Lyng, E Halperin, BL Hill, KM Karkkainen, K Vodrahalli. US Patent App. 18/325,598 (2024)
-
-* *Individualized classification thresholds for machine learning models*, DRC Dahlem, GD Lyng, CA Hane, E Halperin. US Patent App. 18/172,519 (2024)
 
 * *Individualized classification thresholds for machine learning models*, DRC Dahlem, GD Lyng, CA Hane, E Halperin. US Patent App. 18/172,521 (2024)
 
