@@ -16,6 +16,10 @@ author_profile: true
 
 ### refereed journal & conference publications
 
+- Dongkyu Cho, Miao Zhang, Gregory D. Lyng, Rumi Chunara
+*Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration*, 
+Socially Responsible and Trustworthy Foundation Models at NeurIPS 2025, 2025.
+
 - Chufan Gao, Sanjit Singh Batra, Alexander Russell Pelletier, Gregory D. Lyng,
 Eran Halperin, Robert E. Tillman, BioSynNER: Synthetic Data Generation for
 Biomedical Named Entity Recognition, AAAI Workshop on Large Language
