@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Preprints 
+### preprints 
 
 - Dongkyu Cho, Miao Zhang, Gregory D. Lyng, Rumi Chunara, [Query-based Model Collaboration Enables Expert-level Clinical Text Augmentation](https://openreview.net/pdf?id=qlNlILuLK0), preprint, 2026. 
 
 - Dongxu Zhang, Zhichao Yang, Sepehr Janghorbani, Jun Han, Andrew Ressler II, Qian Qian, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [Fast and Effective On-policy Distillation from Reasoning Prefixes](https://arxiv.org/abs/2602.15260), preprint, 2026.
 
-- Trisha Das, Katherine Kero, Dorinda Schumann, Tracy Ohrt,Sanjit Singh Batra, Gregory D. Lyng, and Robert E. Tillman, [POET: Protocol Optimization via Eligibility Tuning](https://arxiv.org/abs/2602.00370), preprint, 2026. 
+- Trisha Das, Katherine Kero, Dorinda Schumann, Tracy Ohrt, Sanjit Singh Batra, Gregory D. Lyng, and Robert E. Tillman, [POET: Protocol Optimization via Eligibility Tuning](https://arxiv.org/abs/2602.00370), preprint, 2026. 
 
 - Zhichao Yang, Sepehr Janghorbani, Dongxu Zhang, Jun Han, Qian Qian, Andrew Ressler II, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs](https://arxiv.org/abs/2601.18706), preprint, 2026.
 
@@ -20,7 +20,7 @@ author_profile: true
 
 - Dongkyu Cho, Miao Zhang, Gregory D. Lyng, Rumi Chunara
 *Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration*, 
-Socially Responsible and Trustworthy Foundation Models at NeurIPS 2025, 2025.
+Socially Responsible and Trustworthy Foundation Models at NeurIPS 2025, Mexico City, MX: 2025.
 
 - Chufan Gao, Sanjit Singh Batra, Alexander Russell Pelletier, Gregory D. Lyng,
 Eran Halperin, Robert E. Tillman, BioSynNER: Synthetic Data Generation for
