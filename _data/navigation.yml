@@ -4,7 +4,7 @@ main:
   - title: "about"
     url: /about/
     
-  - title: "publications"
+  - title: "pubs/patents"
     url: /publications/
 
   - title: "talks"
