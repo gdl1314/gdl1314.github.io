@@ -4,13 +4,13 @@ main:
   - title: "about"
     url: /about/
     
-  - title: "pubs/patents"
+  - title: "pubs"
     url: /publications/
 
   - title: "talks"
     url: /talks/    
 
-  - title: "teaching"
+  - title: "teach"
     url: /teaching/    
         
   - title: "cv"
