@@ -7,8 +7,6 @@ redirect_from:
 
 ---
 
-## Selected Publications. 
-
 ### warm off the presses. 
 
 Some recent-ish preprints...
