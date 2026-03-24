@@ -127,6 +127,10 @@ One-dimensional stability of viscous strong detonation waves.
 
 * *Individualized classification thresholds for machine learning models*, DRC Dahlem, GD Lyng, CA Hane, E Halperin. US Patent App. 18/172,521 (2024)
 
+### datasets 
+
+- Zhichao Yang, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman,
+  [MIMIC-IV-Ext-MedicalBench: Evaluating Large Language Models Towards Improved Medical Concept Extraction (version 1.0.0)](https://doi.org/10.13026/j98m-g356), *PhysioNet*, RRID:SCR_007345 (2026). 
 
 ### working papers and reports
 
