@@ -69,7 +69,7 @@ Viscous hyperstabilization of detonation waves in one space dimension,
 
 - Nicholas Anderson, Allison Lindgren, & Gregory Lyng, [Computing the refined stability condition](https://doi.org/10.1090/S0033-569X-2015-01362-2), *Quarterly of Applied Mathematics*, **73** (2015): 1--21. 
 
-- Yeongjoh Kim, Long Lee, & Gregory Lyng, The Wentzel--Kramers--Brillouin approximation of semiclassical eigenvalues of the Zakharov--Shabat problem. *Journal of Mathematical Physics*, **55** (2014): 083516, 18 pp. 
+- Yeongjoh Kim, Long Lee, & Gregory Lyng, [The Wentzel--Kramers--Brillouin approximation of semiclassical eigenvalues of the Zakharov--Shabat problem](https://doi.org/10.1063/1.4892589), *Journal of Mathematical Physics*, **55** (2014): 083516, 18 pp. 
 
 - Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, [Stability of viscous detonation waves for Majda's model](https://doi.org/10.1016/j.physd.2013.06.001), *Physica D*, **259** (2013): 63--80. 
 
