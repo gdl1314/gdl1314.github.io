@@ -28,7 +28,7 @@ Biomedical Named Entity Recognition, AAAI Workshop on Large Language
 Models and Generative AI for Health, Philadelphia, PA: March 2025.
 
 -  Elena Engel, Andrew Hill, Ann Granchelli, Gabriel Lockhart, Gregory Lyng, Leanne Kaye, Helena Lyson, Russell P. Bowler, 
-*Wearable Sensors for Early Detection of COPD Exacerbations*, 
+[Wearable Sensors for Early Detection of COPD Exacerbations](http://dx.doi.org/10.1016/j.chest.2023.07.3260), 
 CHEST 2023: Annual Meeting of the American College of Chest Physicians, Honolulu, HI: October 2023. 
 
 - Kailas Vodrahalli,  Gregory D. Lyng, Brian Hill, Kimmo Karkkainnen, Jeffrey Hertzberg, James Zou, & Eran Halperin,
@@ -65,7 +65,7 @@ Proceedings of the 25th International Colloquium on the Dynamics of Explosions a
 [Viscous hyperstabilization of detonation waves in one space dimension](https://doi.org/10.1137/140980223), 
 *SIAM Journal on Applied Mathematics*, **75** (2015): 885--906. 
 
-- Gregory Lyng, Semiclassical soliton ensembles for the focusing nonlinear Schroedinger equation: Recent developments. in ``Nonlinear Wave Equations: Analytic and Computational Techniques,'' 91--108, *Contemporary Mathematics*,  **635**, American Mathematical Society, Providence, RI, 2015. 
+- Gregory Lyng, Semiclassical soliton ensembles for the focusing nonlinear Schroedinger equation: Recent developments. in ``[Nonlinear Wave Equations: Analytic and Computational Techniques](https://doi.org/10.1090/conm/635),'' 91--108, *Contemporary Mathematics*,  **635**, American Mathematical Society, Providence, RI, 2015. 
 
 - Nicholas Anderson, Allison Lindgren, & Gregory Lyng, [Computing the refined stability condition](https://doi.org/10.1090/S0033-569X-2015-01362-2), *Quarterly of Applied Mathematics*, **73** (2015): 1--21. 
 
@@ -132,15 +132,13 @@ Low frequency stability of planar multi-D detonations,
 
 ### working papers and reports
 
-- Natalie E. Sheils, Gregory D. Lyng, & Ethan M. Berke, Updating herd immunity models for the U.S. in 2020: Implications for the COVID-19 response, preprint, 20 pages, 2020. 
-  - Preprint: [medRxiv 2020.10.05.20207100](https://doi.org/10.1101/2020.10.05.20207100)
+- Natalie E. Sheils, Gregory D. Lyng, & Ethan M. Berke, [Updating herd immunity models for the U.S. in 2020: Implications for the COVID-19 response](https://doi.org/10.1101/2020.10.05.20207100), preprint, 20 pages, 2020. 
   - Press: Georgiou, A. (October 9, 2020). [Newsweek](https://www.newsweek.com/united-states-herd-immunity-infection-rate-1537880)
 
 - UnitedHealth Group Research & Development, Focus Area Report (*Confidential*), 75 pages, 2019.   
   - Lead author: Focus Area Reports were used internally by UHG and UHG R&D to stand up research initiatives and to shape and inform investment decision-making. These reports present a panoramic view of a critical healthcare domain from a scientific point of view that incorporates clinical and business perspectives.
 
-- Yi-Hung Kuo, Long Lee, & Gregory Lyng, Analysis and development of compact finite difference schemes with optimized numerical dispersion relations, preprint, 43 pages, 2014. 
-  - Preprint: [arXiv:1409.3535](https://arxiv.org/abs/1409.3535)
+- Yi-Hung Kuo, Long Lee, & Gregory Lyng, [Analysis and development of compact finite difference schemes with optimized numerical dispersion relations](https://arxiv.org/abs/1409.3535), preprint, 43 pages, 2014. 
 
 ### course notes and other materials
 
