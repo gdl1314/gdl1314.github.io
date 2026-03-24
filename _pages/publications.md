@@ -52,7 +52,7 @@ American Thoracic Society International Conference, San Francisco, CA: May 2022.
 
 - Blake Barker, Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, Balanced flux formulations for multidimensional Evans-function computations for viscous shocks, *Quarterly of Applied Mathematics*, **76** (2018): 531--545.
 
-- Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, Multidimensional stability of large-amplitude Navier--Stokes shocks, *Archive for Rational Mechanics and Analysis*, **226** (2017): 923--973.
+- Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, [Multidimensional stability of large-amplitude Navier--Stokes shocks](https://doi.org/10.1007/s00205-017-1147-7), *Archive for Rational Mechanics and Analysis*, **226** (2017): 923--973.
 
 - Gregory Lyng, Spectral and nonlinear stability of viscous strong and weak detonation waves in Majda's qualitative model. 
 Proceedings of the 25th International Colloquium on the Dynamics of Explosions and Reactive Systems, 6 pages, 2015. 
@@ -71,26 +71,26 @@ Viscous hyperstabilization of detonation waves in one space dimension,
 
 - Yeongjoh Kim, Long Lee, & Gregory Lyng, The Wentzel--Kramers--Brillouin approximation of semiclassical eigenvalues of the Zakharov--Shabat problem. *Journal of Mathematical Physics*, **55** (2014): 083516, 18 pp. 
 
-- Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, [Stability of viscous detonation waves for Majda's model](https://doi.org/10.1016/j.physd.2013.06.001). *Physica D*, **259** (2013): 63--80. 
+- Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, [Stability of viscous detonation waves for Majda's model](https://doi.org/10.1016/j.physd.2013.06.001), *Physica D*, **259** (2013): 63--80. 
 
 - Long Lee & Gregory Lyng, A second look at the Gaussian semiclassical soliton ensemble for the focusing nonlinear Schroedinger equation. *Physics Letters A*, **377** (2013): 1179--1188. 
 
-- Long Lee, Gregory Lyng, & Irena Vankova, The Gaussian semiclassical soliton ensemble and numerical methods for the focusing nonlinear Schroedinger equation. *Physica D*, **241** (2012): 1767--1781.
+- Long Lee, Gregory Lyng, & Irena Vankova, [The Gaussian semiclassical soliton ensemble and numerical methods for the focusing nonlinear Schroedinger equation](https://doi.org/10.1016/j.physd.2012.08.006), *Physica D*, **241** (2012): 1767--1781.
 
-- Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, Spectral stability of ideal-gas shock layers. *Archive for Rational Mechanics and Analysis*,  **194** (2009): 1029--1079. 
+- Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, [Spectral stability of ideal-gas shock layers](https://doi.org/10.1007/s00205-008-0195-4), *Archive for Rational Mechanics and Analysis*,  **194** (2009): 1029--1079. 
 
 - Gregory Lyng, Mohammadreza Raoofi, Benjamin Texier, & Kevin Zumbrun,
 Pointwise Green function bounds and the stability of combustion waves.
 *Journal of Differential Equations*, **233** (2007): 654--698. 
 
-- Nicola Costanzino, H. Kristian Jenssen, Gregory Lyng, & Mark Williams, Existence and stability of curved multidimensional detonation fronts. *Indiana University Mathematics Journal*, **56** (2007): 1405--1462. 
+- Nicola Costanzino, H. Kristian Jenssen, Gregory Lyng, & Mark Williams, [Existence and stability of curved multidimensional detonation fronts](https://doi.org/10.1512/iumj.2007.56.2972), *Indiana University Mathematics Journal*, **56** (2007): 1405--1462. 
 
 - Gregory Lyng & Peter D. Miller, The *N*-soliton of the focusing nonlinear
 Schroedinger equation for *N* large. *Communications on Pure and Applied Mathematics*, *60* (2007): 951--1026.
 
 - Gregory Lyng, Kevin Zumbrun, & H. Kristian Jenssen, Stability of detonation waves, **EQUADIFF 2003**, 517--519 World Sci. Publ., Hackensack, New Jersey, 2005.
 
-- H. Kristian Jenssen, Gregory Lyng, & Mark Williams, Equivalence of low-frequency stability conditions for multidimensional detonations in three models of combustion. *Indiana University Mathematics Journal*, **54** (2005): 1--64. 
+- H. Kristian Jenssen, Gregory Lyng, & Mark Williams, [Equivalence of low-frequency stability conditions for multidimensional detonations in three models of combustion](https://doi.org/10.1512/iumj.2005.54.2685), *Indiana University Mathematics Journal*, **54** (2005): 1--64. 
 
 - H. Kristian Jenssen, Gregory Lyng, & Mark Williams,
 Low frequency stability of planar multi-D detonations,
@@ -103,7 +103,7 @@ large-amplitude shock waves of compressible Navier--Stokes equations, *Handbook 
 One-dimensional stability of viscous strong detonation waves.
 *Archive for Rational Mechanics and Analysis*, **173** (2004): 213--277. 
 
-- Gregory Lyng & Kevin Zumbrun, A stability index for detonation waves in Majda's model for reacting flow. *Physica D*, **194** (2004): 1--29. 
+- Gregory Lyng & Kevin Zumbrun, [A stability index for detonation waves in Majda's model for reacting flow](https://doi.org/10.1016/j.physd.2004.01.036), *Physica D*, **194** (2004): 1--29. 
 
 ### patents
 
