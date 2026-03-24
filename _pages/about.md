@@ -16,9 +16,9 @@ More recently, my interests have broadened to include data-driven modeling and m
 
 ### other stuff about me.
 
-I grew up in [Fort Wayne](https://en.wikipedia.org/wiki/Fort_Wayne,_Indiana), Indiana (the one-time magnet wire capital of the world). Outside of mathematics, I love alpine skiing (my happy place is an undisclosed location somewhere near the Bar-UE lift at [Steamboat](https://www.steamboat.com)), solving (or attempting to solve) the [New York Times](https://www.nytimes.com/) crossword puzzle, and a really (seriously, really) good cup of coffee. My wife and I live in Minneapolis, MN with a retriever mix named Penny.
+I grew up in [Fort Wayne](https://en.wikipedia.org/wiki/Fort_Wayne,_Indiana), Indiana (the one-time magnet wire capital of the world). Outside of mathematics, I love alpine skiing (my happy place is an undisclosed location somewhere near the Bar-UE lift at [Steamboat](https://www.steamboat.com)), solving (or sometimes attempting to solve) the [New York Times](https://www.nytimes.com/) crossword puzzle, and a really good cup of coffee. My wife and I live in Minneapolis, MN with a retriever mix named Penny.
 
-### warm off the presses. 
+<!-- ### warm off the presses. 
 
 Selected recent-ish preprints...
 
@@ -35,5 +35,5 @@ Papers of which I am especially fond for one reason or another...
 * Long Lee, Gregory Lyng, & Irena Vankova, [The Gaussian semiclassical soliton ensemble and numerical methods for the focusing nonlinear Schrödinger equation](https://dx.doi.org/10.1016/j.physd.2012.08.006). *Physica D*, **241** (2012): 1767–1781.
 * Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, [Spectral stability of ideal-gas shock layers](https://dx.doi.org/10.1007/s00205-008-0195-4). *Archive for Rational Mechanics and Analysis*, 194 (2009): 1029–1079.
 * Gregory Lyng & Peter D. Miller, [The *N*-soliton of the focusing nonlinear Schrödinger equation for *N* large](https://dx.doi.org/10.1002/cpa.20162). *Communications on Pure and Applied Mathematics*, **60** (2007): 951–1026.
-* H. Kristian Jenssen, Gregory Lyng, & Mark Williams, [Equivalence of low-frequency stability conditions for multidimensional detonations in three models of combustion](https://dx.doi.org/10.1512/iumj.2005.54.2685). *Indiana University Mathematics Journal*, **54** (2005): 1–64. 
+* H. Kristian Jenssen, Gregory Lyng, & Mark Williams, [Equivalence of low-frequency stability conditions for multidimensional detonations in three models of combustion](https://dx.doi.org/10.1512/iumj.2005.54.2685). *Indiana University Mathematics Journal*, **54** (2005): 1–64.  -->
 
