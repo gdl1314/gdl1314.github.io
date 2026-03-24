@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "index"
+excerpt: ""
 author_profile: true
 redirect_from: 
 
