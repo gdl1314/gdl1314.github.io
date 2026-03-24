@@ -58,7 +58,7 @@ American Thoracic Society International Conference, San Francisco, CA: May 2022.
 Proceedings of the 25th International Colloquium on the Dynamics of Explosions and Reactive Systems, 6 pages, 2015. 
 
 - Jeffrey Hendricks, Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun.
-Stability of viscous weak detonation waves for Majda's model, *Journal of Dynamics and Differential Equations*, 
+[Stability of viscous weak detonation waves for Majda's model](https://doi.org/10.1007/s10884-015-9440-3), *Journal of Dynamics and Differential Equations*, 
 **27** (2015): 237--260. 
 
 - Blake Barker, Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, 
@@ -71,7 +71,7 @@ Viscous hyperstabilization of detonation waves in one space dimension,
 
 - Yeongjoh Kim, Long Lee, & Gregory Lyng, The Wentzel--Kramers--Brillouin approximation of semiclassical eigenvalues of the Zakharov--Shabat problem. *Journal of Mathematical Physics*, **55** (2014): 083516, 18 pp. 
 
-- Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, Stability of viscous detonation waves for Majda's model. *Physica D*, **259** (2013): 63--80. 
+- Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, [Stability of viscous detonation waves for Majda's model](https://doi.org/10.1016/j.physd.2013.06.001). *Physica D*, **259** (2013): 63--80. 
 
 - Long Lee & Gregory Lyng, A second look at the Gaussian semiclassical soliton ensemble for the focusing nonlinear Schroedinger equation. *Physics Letters A*, **377** (2013): 1179--1188. 
 
