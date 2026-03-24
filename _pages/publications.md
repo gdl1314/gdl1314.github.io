@@ -32,7 +32,7 @@ Models and Generative AI for Health, Philadelphia, PA: March 2025.
 CHEST 2023: Annual Meeting of the American College of Chest Physicians, Honolulu, HI: October 2023. 
 
 - Kailas Vodrahalli,  Gregory D. Lyng, Brian Hill, Kimmo Karkkainnen, Jeffrey Hertzberg, James Zou, & Eran Halperin,
-*Understanding and predicting the effect of environmental factors on people with Type 2 Diabetes*, In: Proceedings of the Conference on Health, Inference, & Learning, *PMLR* **209** (2023): 545--555.
+[Understanding and predicting the effect of environmental factors on people with Type 2 Diabetes](https://proceedings.mlr.press/v209/vodrahalli23a.html), In: Proceedings of the Conference on Health, Inference, & Learning, *PMLR* **209** (2023): 545--555.
 
 - Kimmo Karkkainnen, Gregory D. Lyng, Brian Hill, Kailas Vodrahalli, Jeffrey Hertzberg, & Eran Halperin, 
 *Sleep and activity prediction from continuous glucose monitoring data*, 
@@ -62,7 +62,7 @@ Proceedings of the 25th International Colloquium on the Dynamics of Explosions a
 **27** (2015): 237--260. 
 
 - Blake Barker, Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, 
-Viscous hyperstabilization of detonation waves in one space dimension, 
+[Viscous hyperstabilization of detonation waves in one space dimension](https://doi.org/10.1137/140980223), 
 *SIAM Journal on Applied Mathematics*, **75** (2015): 885--906. 
 
 - Gregory Lyng, Semiclassical soliton ensembles for the focusing nonlinear Schroedinger equation: Recent developments. in ``Nonlinear Wave Equations: Analytic and Computational Techniques,'' 91--108, *Contemporary Mathematics*,  **635**, American Mathematical Society, Providence, RI, 2015. 
@@ -85,8 +85,7 @@ Viscous hyperstabilization of detonation waves in one space dimension,
 
 - Nicola Costanzino, H. Kristian Jenssen, Gregory Lyng, & Mark Williams, [Existence and stability of curved multidimensional detonation fronts](https://doi.org/10.1512/iumj.2007.56.2972), *Indiana University Mathematics Journal*, **56** (2007): 1405--1462. 
 
-- Gregory Lyng & Peter D. Miller, [The *N*-soliton of the focusing nonlinear
-Schroedinger equation for *N* large](https://doi.org/10.1002/cpa.20162), *Communications on Pure and Applied Mathematics*, *60* (2007): 951--1026.
+- Gregory Lyng & Peter D. Miller, [The *N*-soliton of the focusing nonlinear Schroedinger equation for *N* large](https://doi.org/10.1002/cpa.20162), *Communications on Pure and Applied Mathematics*, *60* (2007): 951--1026.
 
 - Gregory Lyng, Kevin Zumbrun, & H. Kristian Jenssen, Stability of detonation waves, **EQUADIFF 2003**, 517--519 World Sci. Publ., Hackensack, New Jersey, 2005.
 
@@ -96,8 +95,7 @@ Schroedinger equation for *N* large](https://doi.org/10.1002/cpa.20162), *Commun
 Low frequency stability of planar multi-D detonations,
 *Oberwolfach Reports*, Volume 1, Issue 2, 2004, report No. 18/2004, 927--928.
 
-- H. Kristian Jenssen & Gregory Lyng, Evaluation of the Lopatinski condition for gas dynamics, appendix to K. Zumbrun, Stability of 
-large-amplitude shock waves of compressible Navier--Stokes equations, *Handbook of Mathematical Fluid Dynamics* III, S. Friedlander & D. Serre eds., North-Holland, Amsterdam, 2004.
+- H. Kristian Jenssen & Gregory Lyng, Evaluation of the Lopatinski condition for gas dynamics, appendix to K. Zumbrun, [Stability of large-amplitude shock waves of compressible Navier--Stokes equations](https://doi.org/10.1016/S1874-5792(05)80008-4), *Handbook of Mathematical Fluid Dynamics* III, S. Friedlander & D. Serre eds., North-Holland, Amsterdam, 2004.
 
 - Gregory Lyng & Kevin Zumbrun,
 [One-dimensional stability of viscous strong detonation waves]( https://doi.org/10.1007/s00205-004-0317-6),
