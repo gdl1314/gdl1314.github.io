@@ -7,22 +7,11 @@ redirect_from:
 
 ---
 
-### background. 
-I am a mathematician by training.  
-
-### research interests.
-
-My early research work focused on the behavior of solutions of nonlinear partial differential equations, especially in scenarios where those solutions represent important physical phenomena. Most of those projects featured an interplay of elements from some combination of rigorous real, complex, and functional analysis; numerical computation; dynamical systems; and/or modern asymptotic methods.
-
-More recently, my interests have broadened to include data-driven modeling and machine learning for healthcare applications. In the healthcare domain, I am especially interested in the interaction between data and model, and the wide variety and utility of "real" health data.
-
-### other stuff about me.
-
-I grew up in [Fort Wayne](https://en.wikipedia.org/wiki/Fort_Wayne,_Indiana), Indiana (the one-time magnet wire capital of the world). Outside of mathematics, I love alpine skiing (my happy place is an undisclosed location somewhere near the Bar-UE lift at [Steamboat](https://www.steamboat.com)), solving (or attempting to solve) the [New York Times](https://www.nytimes.com/) crossword puzzle, and a really (seriously, really) good cup of coffee. My wife and I live in Minneapolis, MN with a retriever mix named Penny.
+## Selected Publications. 
 
 ### warm off the presses. 
 
-Selected recent-ish preprints...
+Some recent-ish preprints...
 
 * Dongxu Zhang, Zhichao Yang, Sepehr Janghorbani, Jun Han, Andrew Ressler II, Qian Qian, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [Fast and Effective On-policy Distillation from Reasoning Prefixes](https://arxiv.org/abs/2602.15260), preprint, 2026.
 
