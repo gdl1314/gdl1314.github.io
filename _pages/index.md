@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "index"
+title: ""
 excerpt: "index"
 author_profile: true
 redirect_from: 
