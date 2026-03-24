@@ -1,11 +1,10 @@
 ---
-permalink: /about
-title: "about"
-excerpt: "about"
+permalink: /
+title: "index"
+excerpt: "index"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 ### background. 
