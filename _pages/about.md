@@ -23,7 +23,7 @@ I grew up in [Fort Wayne](https://en.wikipedia.org/wiki/Fort_Wayne,_Indiana), In
 
 ### warm off the presses. 
 
-Recent-ish preprints...
+Selected recent-ish preprints...
 
 * Dongxu Zhang, Zhichao Yang, Sepehr Janghorbani, Jun Han, Andrew Ressler II, Qian Qian, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [Fast and Effective On-policy Distillation from Reasoning Prefixes](https://arxiv.org/abs/2602.15260), preprint, 2026.
 

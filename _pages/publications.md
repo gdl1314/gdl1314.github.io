@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "publications & patents"
+title: "publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -42,15 +42,15 @@ NeurIPS 2022 Workshop on Learning from Time Series for Health. 2022.
 *Wearable Sensors for Early Detection of COPD Exacerbations*, 
 American Thoracic Society International Conference, San Francisco, CA: May 2022. 
 
-- Gregory D. Lyng, Natalie E. Sheils, Caleb J. Kennedy, Daniel O. Griffin, Ethan M. Berke, Identifying optimal COVID-19 testing strategies for schools and businesses: Balancing testing frequency, individual test technology, and cost, *PLoS One*, **16** (2021): e0248783, 13pp.
+- Gregory D. Lyng, Natalie E. Sheils, Caleb J. Kennedy, Daniel O. Griffin, Ethan M. Berke, [Identifying optimal COVID-19 testing strategies for schools and businesses: Balancing testing frequency, individual test technology, and cost](https://doi.org/10.1371/journal.pone.0248783), *PLoS One*, **16** (2021): e0248783, 13pp.
 
-- Mathew A. Johnson, Gregory D. Lyng, & Connor Smith, On the dynamics of traveling fronts arising in nanoscale pattern formation, *Physica D*, **401** (2020): 132184, 16 pp. 
+- Mathew A. Johnson, Gregory D. Lyng, & Connor Smith, [On the dynamics of traveling fronts arising in nanoscale pattern formation](https://doi.org/10.1016/j.physd.2019.132184), *Physica D*, **401** (2020): 132184, 16 pp. 
 
--  Blake Barker, Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, Euler vs Lagrange: The role of coordinates in practical Evans-function computation, *SIAM Journal on Applied Dynamical Systems*, **17** (2018): 1766--1785. 
+-  Blake Barker, Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, [Euler vs Lagrange: The role of coordinates in practical Evans-function computation](https://doi.org/10.1137/17M113770X), *SIAM Journal on Applied Dynamical Systems*, **17** (2018): 1766--1785. 
 
-- Blake Barker, Jeffrey Humpherys, Gregory Lyng, & Joshua Lytle, Computational Evans function techniques for the stability of travelling waves, *Philosophical Transactions of the Royal Society A*, **376** (2018): 20170184, 25 pp.  
+- Blake Barker, Jeffrey Humpherys, Gregory Lyng, & Joshua Lytle, [Computational Evans function techniques for the stability of travelling waves](https://doi.org/10.1098/rsta.2017.0184), *Philosophical Transactions of the Royal Society A*, **376** (2018): 20170184, 25 pp.  
 
-- Blake Barker, Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, Balanced flux formulations for multidimensional Evans-function computations for viscous shocks, *Quarterly of Applied Mathematics*, **76** (2018): 531--545.
+- Blake Barker, Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, [Balanced flux formulations for multidimensional Evans-function computations for viscous shocks](https://doi.org/10.1090/qam/1492), *Quarterly of Applied Mathematics*, **76** (2018): 531--545.
 
 - Jeffrey Humpherys, Gregory Lyng, & Kevin Zumbrun, [Multidimensional stability of large-amplitude Navier--Stokes shocks](https://doi.org/10.1007/s00205-017-1147-7), *Archive for Rational Mechanics and Analysis*, **226** (2017): 923--973.
 
@@ -67,7 +67,7 @@ Viscous hyperstabilization of detonation waves in one space dimension,
 
 - Gregory Lyng, Semiclassical soliton ensembles for the focusing nonlinear Schroedinger equation: Recent developments. in ``Nonlinear Wave Equations: Analytic and Computational Techniques,'' 91--108, *Contemporary Mathematics*,  **635**, American Mathematical Society, Providence, RI, 2015. 
 
-- Nicholas Anderson, Allison Lindgren, & Gregory Lyng, Computing the refined stability condition. *Quarterly of Applied Mathematics*, **73** (2015): 1--21. 
+- Nicholas Anderson, Allison Lindgren, & Gregory Lyng, [Computing the refined stability condition](https://doi.org/10.1090/S0033-569X-2015-01362-2), *Quarterly of Applied Mathematics*, **73** (2015): 1--21. 
 
 - Yeongjoh Kim, Long Lee, & Gregory Lyng, The Wentzel--Kramers--Brillouin approximation of semiclassical eigenvalues of the Zakharov--Shabat problem. *Journal of Mathematical Physics*, **55** (2014): 083516, 18 pp. 
 
