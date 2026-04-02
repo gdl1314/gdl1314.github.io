@@ -7,13 +7,13 @@ main:
   - title: "pubs"
     url: /publications/
 
-  - title: "talks"
-    url: /talks/    
+  # - title: "talks"
+  #   url: /talks/    
 
-  - title: "classes"
-    url: /teaching/    
+  # - title: "classes"
+  #   url: /teaching/    
         
-  - title: "cv"
-    url: /cv/
+  # - title: "cv"
+  #   url: /cv/
     
   
