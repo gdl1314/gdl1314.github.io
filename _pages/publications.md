@@ -7,7 +7,9 @@ author_profile: true
 
 ### preprints 
 
-- Dongkyu Cho, Miao Zhang, Gregory D. Lyng, Rumi Chunara, [Query-based Model Collaboration Enables Expert-level Clinical Text Augmentation](https://openreview.net/pdf?id=qlNlILuLK0), preprint, 2026. 
+- Zhichao Yang, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [MEDICALBENCH: Evaluating Large Language Models towards improved medical concept extraction](https://doi.org/10.64898/2026.04.12.26350704), preprint, 2026;
+
+- Dongkyu Cho, Miao Zhang, Gregory D. Lyng, and Rumi Chunara, [Query-based Model Collaboration Enables Expert-level Clinical Text Augmentation](https://openreview.net/pdf?id=qlNlILuLK0), preprint, 2026. 
 
 - Dongxu Zhang, Zhichao Yang, Sepehr Janghorbani, Jun Han, Andrew Ressler II, Qian Qian, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [Fast and Effective On-policy Distillation from Reasoning Prefixes](https://arxiv.org/abs/2602.15260), preprint, 2026.
 
