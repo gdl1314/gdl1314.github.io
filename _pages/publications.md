@@ -25,17 +25,17 @@ author_profile: true
 Socially Responsible and Trustworthy Foundation Models at NeurIPS 2025, Mexico City, MX: 2025.
 
 - Chufan Gao, Sanjit Singh Batra, Alexander Russell Pelletier, Gregory D. Lyng,
-Eran Halperin, Robert E. Tillman, *BioSynNER: Synthetic Data Generation for Biomedical Named Entity Recognition*, AAAI Workshop on Large Language Models and Generative AI for Health, Philadelphia, PA: March 2025.
+Eran Halperin, Robert E. Tillman, [BioSynNER: Synthetic Data Generation for Biomedical Named Entity Recognition](https://openreview.net/pdf?id=tLfUZEGcL1), AAAI Workshop on Large Language Models and Generative AI for Health, Philadelphia, PA: March 2025.
 
 -  Elena Engel, Andrew Hill, Ann Granchelli, Gabriel Lockhart, Gregory Lyng, Leanne Kaye, Helena Lyson, Russell P. Bowler, 
 [Wearable Sensors for Early Detection of COPD Exacerbations](http://dx.doi.org/10.1016/j.chest.2023.07.3260), 
 CHEST 2023: Annual Meeting of the American College of Chest Physicians, Honolulu, HI: October 2023. 
 
 - Kailas Vodrahalli,  Gregory D. Lyng, Brian Hill, Kimmo Karkkainnen, Jeffrey Hertzberg, James Zou, & Eran Halperin,
-[Understanding and predicting the effect of environmental factors on people with Type 2 Diabetes](https://proceedings.mlr.press/v209/vodrahalli23a.html), In: Proceedings of the Conference on Health, Inference, & Learning, *PMLR* **209** (2023): 545--555.
+[Understanding and predicting the effect of environmental factors on people with Type 2 Diabetes](https://proceedings.mlr.press/v209/vodrahalli23a.html), In: Proceedings of the Conference on Health, Inference, & Learning, *Proceedings of Machine Learning Research* **209** (2023): 545--555.
 
 - Kimmo Karkkainnen, Gregory D. Lyng, Brian Hill, Kailas Vodrahalli, Jeffrey Hertzberg, & Eran Halperin, 
-*Sleep and activity prediction from continuous glucose monitoring data*, 
+[Sleep and Activity Prediction for Type 2 Diabetes Management Using Xontinuous Glucose Monitoring](https://openreview.net/pdf?id=S_mw8outw71), 
 NeurIPS 2022 Workshop on Learning from Time Series for Health. 2022. 
 
 - Elena Engel, Andrew Hill, Gabriel Lockhart, Ayal Levi, Gregory Lyng, Leanne Kaye, Russell P. Bowler, 
