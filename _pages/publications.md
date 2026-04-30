@@ -35,7 +35,7 @@ CHEST 2023: Annual Meeting of the American College of Chest Physicians, Honolulu
 [Understanding and predicting the effect of environmental factors on people with Type 2 Diabetes](https://proceedings.mlr.press/v209/vodrahalli23a.html), In: Proceedings of the Conference on Health, Inference, & Learning, *Proceedings of Machine Learning Research* **209** (2023): 545--555.
 
 - Kimmo Karkkainnen, Gregory D. Lyng, Brian Hill, Kailas Vodrahalli, Jeffrey Hertzberg, & Eran Halperin, 
-[Sleep and Activity Prediction for Type 2 Diabetes Management Using Xontinuous Glucose Monitoring](https://openreview.net/pdf?id=S_mw8outw71), 
+[Sleep and Activity Prediction for Type 2 Diabetes Management Using Continuous Glucose Monitoring](https://openreview.net/pdf?id=S_mw8outw71), 
 NeurIPS 2022 Workshop on Learning from Time Series for Health. 2022. 
 
 - Elena Engel, Andrew Hill, Gabriel Lockhart, Ayal Levi, Gregory Lyng, Leanne Kaye, Russell P. Bowler, 
