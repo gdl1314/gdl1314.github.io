@@ -11,11 +11,11 @@ redirect_from:
 
 Some recent-ish preprints...
 
-* Dongxu Zhang, Zhichao Yang, Sepehr Janghorbani, Jun Han, Andrew Ressler II, Qian Qian, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [Fast and Effective On-policy Distillation from Reasoning Prefixes](https://arxiv.org/abs/2602.15260), preprint, 2026.
+* - Zhichao Yang, Gregory D. Lyng, Sanjit Singh Batra, & Robert E. Tillman, [MEDICALBENCH: Evaluating Large Language Models towards improved medical concept extraction](https://doi.org/10.64898/2026.04.12.26350704), preprint, 2026.
 
-* Trisha Das, Katherine Kero, Dorinda Schumann, Tracy Ohrt,Sanjit Singh Batra, Gregory D. Lyng, and Robert E. Tillman, [POET: Protocol Optimization via Eligibility Tuning](https://arxiv.org/abs/2602.00370), preprint, 2026. 
+* Trisha Das, Katherine Kero, Dorinda Schumann, Tracy Ohrt,Sanjit Singh Batra, Gregory D. Lyng, & Robert E. Tillman, [POET: Protocol Optimization via Eligibility Tuning](https://arxiv.org/abs/2602.00370), preprint, 2026. 
 
-* Zhichao Yang, Sepehr Janghorbani, Dongxu Zhang, Jun Han, Qian Qian, Andrew Ressler II, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs](https://arxiv.org/abs/2601.18706), preprint, 2026.
+* Zhichao Yang, Sepehr Janghorbani, Dongxu Zhang, Jun Han, Qian Qian, Andrew Ressler II, Gregory D. Lyng, Sanjit Singh Batra, & Robert E. Tillman, [Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs](https://arxiv.org/abs/2601.18706), preprint, 2026.
 
 ### oldies but goodies. 
 
