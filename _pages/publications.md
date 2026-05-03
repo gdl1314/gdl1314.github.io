@@ -9,10 +9,6 @@ author_profile: true
 
 - Zhichao Yang, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [MEDICALBENCH: Evaluating Large Language Models towards improved medical concept extraction](https://doi.org/10.64898/2026.04.12.26350704), preprint, 2026.
 
-- Dongkyu Cho, Miao Zhang, Gregory D. Lyng, and Rumi Chunara, [Query-based Model Collaboration Enables Expert-level Clinical Text Augmentation](https://openreview.net/pdf?id=qlNlILuLK0), preprint, 2026. 
-
-- Dongxu Zhang, Zhichao Yang, Sepehr Janghorbani, Jun Han, Andrew Ressler II, Qian Qian, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [Fast and Effective On-policy Distillation from Reasoning Prefixes](https://arxiv.org/abs/2602.15260), preprint, 2026.
-
 - Trisha Das, Katherine Kero, Dorinda Schumann, Tracy Ohrt, Sanjit Singh Batra, Gregory D. Lyng, and Robert E. Tillman, [POET: Protocol Optimization via Eligibility Tuning](https://arxiv.org/abs/2602.00370), preprint, 2026. 
 
 - Zhichao Yang, Sepehr Janghorbani, Dongxu Zhang, Jun Han, Qian Qian, Andrew Ressler II, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs](https://arxiv.org/abs/2601.18706), preprint, 2026.
@@ -20,9 +16,10 @@ author_profile: true
 
 ### refereed journal & conference publications
 
-- Dongkyu Cho, Miao Zhang, Gregory D. Lyng, Rumi Chunara
-*Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration*, 
-Socially Responsible and Trustworthy Foundation Models at NeurIPS 2025, Mexico City, MX: 2025.
+- - Dongxu Zhang, Zhichao Yang, Sepehr Janghorbani, Jun Han, Andrew Ressler II, Qian Qian, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [Fast and Effective On-policy Distillation from Reasoning Prefixes](https://arxiv.org/abs/2602.15260),  to appear
+in *The 64th Annual Meeting of the Association for Computational Linguistics*, 2026.
+
+- Donkyu Cho, Miao Zhang, Gregory D. Lyng, & Rumi Chunara, [Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration](https://openreview.net/forum?id=AuPb9MEDdq). accepted as regular submission by *International Conference on Machine Learning*, 2026. 
 
 - Chufan Gao, Sanjit Singh Batra, Alexander Russell Pelletier, Gregory D. Lyng,
 Eran Halperin, Robert E. Tillman, [BioSynNER: Synthetic Data Generation for Biomedical Named Entity Recognition](https://openreview.net/pdf?id=tLfUZEGcL1), AAAI Workshop on Large Language Models and Generative AI for Health, Philadelphia, PA: March 2025.
@@ -38,7 +35,7 @@ CHEST 2023: Annual Meeting of the American College of Chest Physicians, Honolulu
 [Sleep and Activity Prediction for Type 2 Diabetes Management Using Continuous Glucose Monitoring](https://openreview.net/pdf?id=S_mw8outw71), 
 NeurIPS 2022 Workshop on Learning from Time Series for Health. 2022. 
 
-- Elena Engel, Andrew Hill, Gabriel Lockhart, Ayal Levi, Gregory Lyng, Leanne Kaye, Russell P. Bowler, 
+- Elena Engel, Andrew Hill, Gabriel Lockhart, Ayal Levi, Gregory Lyng, Leanne Kaye, & Russell P. Bowler, 
 *Wearable Sensors for Early Detection of COPD Exacerbations*, 
 American Thoracic Society International Conference, San Francisco, CA: May 2022. 
 
@@ -131,6 +128,10 @@ Low frequency stability of planar multi-D detonations,
   [MIMIC-IV-Ext-MedicalBench: Evaluating Large Language Models Towards Improved Medical Concept Extraction (version 1.0.0)](https://doi.org/10.13026/j98m-g356), *PhysioNet*, RRID:SCR_007345 (2026). 
 
 ### working papers and reports
+
+- Dongkyu Cho, Miao Zhang, Gregory D. Lyng, & Rumi Chunara, 
+*Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration* (refereed, non-archival version), 
+Socially Responsible and Trustworthy Foundation Models at NeurIPS 2025, Mexico City, MX: 2025.
 
 - Natalie E. Sheils, Gregory D. Lyng, & Ethan M. Berke, [Updating herd immunity models for the U.S. in 2020: Implications for the COVID-19 response](https://doi.org/10.1101/2020.10.05.20207100), preprint, 20 pages, 2020. 
   - Press: Georgiou, A. (October 9, 2020). [Newsweek](https://www.newsweek.com/united-states-herd-immunity-infection-rate-1537880)
