@@ -82,7 +82,7 @@ Proceedings of the 25th International Colloquium on the Dynamics of Explosions a
 
 - Nicola Costanzino, H. Kristian Jenssen, Gregory Lyng, & Mark Williams, [Existence and stability of curved multidimensional detonation fronts](https://doi.org/10.1512/iumj.2007.56.2972), *Indiana University Mathematics Journal*, **56** (2007): 1405--1462. 
 
-- Gregory Lyng & Peter D. Miller, [The *N*-soliton of the focusing nonlinear Schroedinger equation for *N* large](https://doi.org/10.1002/cpa.20162), *Communications on Pure and Applied Mathematics*, *60* (2007): 951--1026.
+- Gregory Lyng & Peter D. Miller, [The *N*-soliton of the focusing nonlinear Schroedinger equation for *N* large](https://doi.org/10.1002/cpa.20162), *Communications on Pure and Applied Mathematics*, **60** (2007): 951--1026.
 
 - Gregory Lyng, Kevin Zumbrun, & H. Kristian Jenssen, Stability of detonation waves, **EQUADIFF 2003**, 517--519 World Sci. Publ., Hackensack, New Jersey, 2005.
 
