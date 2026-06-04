@@ -102,9 +102,9 @@ Low frequency stability of planar multi-D detonations,
 
 ### patents
 
-#### Issued/NOA
+#### Issued
 
-* *Individualized classification thresholds for machine learning models*, DRC Dahlem, GD Lyng, CA Hane, E Halperin. US Patent App. 18/172,519 (Notice of Allowances: March 2026)
+* *Individualized classification thresholds for machine learning models*, DRC Dahlem, GD Lyng, CA Hane, E Halperin. US Patent 12,645,997 B2(Jun. 2, 2026)
 
 * *Dynamically parameterized machine learning frameworks*, I Bulu, GD Lyng. US Patent 12,456,059 (Oct. 28, 2025)
 
