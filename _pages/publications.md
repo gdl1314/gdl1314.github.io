@@ -16,8 +16,7 @@ author_profile: true
 
 ### refereed journal & conference publications
 
-- Dongxu Zhang, Zhichao Yang, Sepehr Janghorbani, Jun Han, Andrew Ressler II, Qian Qian, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [Fast and Effective On-policy Distillation from Reasoning Prefixes](https://arxiv.org/abs/2602.15260),  to appear
-in *The 64th Annual Meeting of the Association for Computational Linguistics*, 2026.
+- Dongxu Zhang, Zhichao Yang, Sepehr Janghorbani, Jun Han, Andrew Ressler II, Qian Qian, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman, [Fast and Effective On-policy Distillation from Reasoning Prefixes](https://doi.org/10.18653/v1/2026.findings-acl.1276), In *Findings of the Association for Computational Linquistics: ACL 2026*, pages 25553--25569, San Diego, California, United States. Association for Computational Linguistics, 2026.
 
 - Donkyu Cho, Miao Zhang, Gregory D. Lyng, & Rumi Chunara, [Expert-guided Clinical Text Augmentation via Query-Based Model Collaboration](https://openreview.net/forum?id=AuPb9MEDdq). accepted as regular submission by *International Conference on Machine Learning*, 2026. 
 
