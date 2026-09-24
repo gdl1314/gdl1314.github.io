@@ -109,6 +109,8 @@ Low frequency stability of planar multi-D detonations,
 
 #### published
 
+* *Prompt-engineering framework for synthetic named entity recognition (NER) model training*, SS Batra, RE Tillman, C Gao, Z Yang, GD Lyng, US Patent App. 19/209,114 (2026)
+
 * *Systems and methods for intelligent model training using relevant data objects*, G Austin, J Venkataraman, F Mohaghegh, HR Hassanzadeh, JD Stremmel, A Saeedi, GD Lyng, E Halperin, ZM Poornaki, US Patent App. 18/428,206 (2025)
 
 * *Optimizing embedding using dimension attention for contrastive learning*, BL Hill, E Halperin, GD Lyng, KM Karkkainen. US Patent App. 18/541,777 (2025)
