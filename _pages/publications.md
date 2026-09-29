@@ -103,7 +103,9 @@ Low frequency stability of planar multi-D detonations,
 
 #### Issued / Notice of Allowanecs
 
-* *Machine learning techniques for generating cross-temporal search result prediction*, C Unsal, GD Lyng, I Bulu. US Patent App. 17/938,575 (Notice of Allpwances: September 2026)
+* *Processing different timescale data utilizing a model*, GD Lyng, E Halperin, BL Hill, KM Karkkainen, K Vodrahalli. US Patent App. 18/325,598 (Notice of Allowances: September 2026)
+
+* *Machine learning techniques for generating cross-temporal search result prediction*, C Unsal, GD Lyng, I Bulu. US Patent App. 17/938,575 (Notice of Allowances: August 2026)
 
 * *Individualized classification thresholds for machine learning models*, DRC Dahlem, GD Lyng, CA Hane, E Halperin. US Patent 12,645,997 B2 (Jun. 2, 2026)
 
@@ -119,7 +121,7 @@ Low frequency stability of planar multi-D detonations,
 
 * *Application of personalized sensor-based risk profiles for impacts of external events*, GD Lyng, BL Hill, J Zou, KM Karkkainen, K Vodrahalli, E Halperin. US Patent App. 18/211,988 (2024)
 
-* *Processing different timescale data utilizing a model*, GD Lyng, E Halperin, BL Hill, KM Karkkainen, K Vodrahalli. US Patent App. 18/325,598 (2024)
+
 
 * *Individualized classification thresholds for machine learning models*, DRC Dahlem, GD Lyng, CA Hane, E Halperin. US Patent App. 18/172,521 (2024)
 
