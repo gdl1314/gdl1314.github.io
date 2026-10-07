@@ -123,6 +123,8 @@ Low frequency stability of planar multi-D detonations,
 
 * *Individualized classification thresholds for machine learning models*, DRC Dahlem, GD Lyng, CA Hane, E Halperin. US Patent App. 18/172,521 (2024)
 
+* *Temporal data augmentation and prediciton using multi-stage machine-learning based models*, E Halperin, GD Lyng, BL Hill. US Patern App. 18/057,785 (2024)
+
 ### datasets 
 
 - Zhichao Yang, Gregory D. Lyng, Sanjit Singh Batra, and Robert E. Tillman,
